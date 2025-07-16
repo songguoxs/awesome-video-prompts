@@ -164,3 +164,170 @@ A dynamic camera glides through a miniature LEGO world, where an epic adventure 
 https://github.com/user-attachments/assets/88841eff-4d2c-4978-bf7d-8a06a8ec6bbe
 
 
+<a id="prompt-11"></a>
+## 案例11 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1940631726507938275))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "Medium shot, vertical format, handheld camera",
+    "camera_motion": "slight natural shake",
+    "frame_rate": "30fps",
+    "film_grain": "none"
+  },
+  "subject": {
+    "description": "A towering, snow-white Yeti with shaggy fur and expressive blue eyes",
+    "wardrobe": "slightly oversized white T-shirt with the name 'Emily' in bold, blood-red letters across the chest"
+  },
+  "scene": {
+    "location": "lush forest clearing",
+    "time_of_day": "daytime",
+    "environment": "sunlight filtering through the canopy, creating dappled light patterns on the forest floor"
+  },
+  "visual_details": {
+    "action": "Yeti holds a smartphone on a selfie stick, speaking excitedly to the camera before letting out a dramatic scream",
+    "props": "smartphone mounted on a selfie stick"
+  },
+  "cinematography": {
+    "lighting": "natural sunlight with soft shadows",
+    "tone": "lighthearted and humorous"
+  },
+  "audio": {
+    "ambient": "rustling leaves, distant bird calls",
+    "dialogue": {
+      "character": "Yeti",
+      "line": "Veo3 Fast is now available in the Gemini app—three videos per day! People are going to prompt me like crazy!",
+      "subtitles": false
+    },
+    "effects": "sudden loud scream, flapping wings of startled birds"
+  },
+  "color_palette": "naturalistic with earthy greens and browns; bold red lettering on shirt provides contrast"
+}
+```
+
+**中文提示词：**
+```
+{
+"镜头": {
+"构图": "中景，竖屏格式，手持相机",
+"相机运动": "轻微自然摇晃",
+"帧率": "30fps",
+"胶片颗粒": "无"
+},
+"主体": {
+"描述": "一只高大的雪白雪人，毛发蓬松，眼睛充满表现力，呈蓝色",
+"服装": "略微过大的白色T恤，胸前用粗体血红色字母写着‘Emily’"
+},
+"场景": {
+"位置": "郁郁葱葱的森林空地",
+"时间": "白天",
+"环境": "阳光透过树冠洒下，形成斑驳的光影模式在森林地面"
+},
+"视觉细节": {
+"动作": "雪人拿着自拍杆上的智能手机，兴奋地对着镜头讲话，随后发出一声戏剧性的尖叫",
+"道具": "安装在自拍杆上的智能手机"
+},
+"摄影": {
+"照明": "自然阳光，柔和的阴影",
+"基调": "轻松幽默"
+},
+"音频": {
+"环境音": "沙沙的树叶声，远处的鸟鸣声",
+"对白": {
+"角色": "雪人",
+"台词": "Veo3 Fast现在可以在Gemini应用中使用——每天三条视频！人们会疯狂地给我发提示！",
+"字幕": false
+},
+"音效": "突然的大声尖叫，惊飞的鸟翼拍打声"
+},
+"色彩调色板": "自然主义风格，带有泥土般的绿色和棕色；T恤上的鲜艳红色字母提供了对比"
+}
+```
+
+https://github.com/user-attachments/assets/b6fba2cb-c9de-4ed7-ad07-9c7576dafa2f
+
+<a id="prompt-12"></a>
+## 案例12 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1941717275628724371))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "Medium shot, 35mm lens, shot on ARRI Alexa Mini LF, shallow depth of field, centered framing",
+    "camera_motion": "static camera with slight handheld sway for liveliness",
+    "frame_rate": "24fps",
+    "film_grain": "subtle Kodak Vision3 250D grain overlay"
+  },
+  "subject": {
+    "description": "A young woman with pale skin and long black wavy hair, dressed in a crisp white button-up shirt, a slim black tie, and dark tailored trousers",
+    "wardrobe": "white dress shirt neatly tucked, black tie loosely knotted, dark fitted trousers, casual yet polished",
+    "character_motion": "she raises both hands playfully like claws and winks with one eye, holding the pose for a beat"
+  },
+  "scene": {
+    "location": "minimalist indoor studio hallway with matte gray walls and industrial door labeled with signage",
+    "time_of_day": "midday with soft diffused light",
+    "environment": "clean neutral-toned space, subtle overhead lighting, muted background for focus on subject"
+  },
+  "visual_details": {
+    "action": "as the woman strikes her playful claw pose and winks, a pixel art character appears in the lower right corner, mimicking her motion in perfect sync with exaggerated cartoonish expression",
+    "props": "visible door with white 'DO NOT OPEN' label, gray paneling, studio floor tiles"
+  },
+  "cinematography": {
+    "lighting": "soft top-lighting with a hint of bounce to preserve facial charm and skin tone",
+    "tone": "lighthearted, whimsical, charming with a touch of surreal contrast between realism and pixel art"
+  },
+  "audio": {
+    "ambient": "soft studio room tone, faint echo of movement",
+    "sound_effects": "light chime as both the woman and pixel character raise their hands, soft digital pop as pixel character appears"
+  },
+  "color_palette": "neutral grays with pops of black and white, slight pastel blush tones in the pixel character for warmth",
+  "dialogue": {
+    "character": "Woman",
+    "line": "(cheerfully, winking) \"Rawr! I'm pixel-perfect!\"",
+    "subtitles": false
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“shot”： {
+“composition”： “中景，35mm 镜头，使用 ARRI Alexa Mini LF 拍摄，浅景深，居中取景”，
+“camera_motion”： “静态摄像机，手持轻微摇晃，生动活泼”，
+“frame_rate”： “24fps”，
+“film_grain”： “微妙的 Kodak Vision3 250D 颗粒叠加”
+  },
+“主题”： {
+“description”： “一位年轻女子，皮肤苍白，黑色波浪长发，穿着一件清爽的白色纽扣衬衫，系着修身的黑色领带，穿着深色定制裤”，
+“wardrobe”： “白色衬衫整齐地塞进去，黑色领带松散地打结，深色合身的裤子，休闲而优雅”，
+“character_motion”： “她像爪子一样俏皮地举起双手，一只眼睛眨眼，保持姿势一拍”
+  },
+“场景”： {
+“location”： “极简主义的室内工作室走廊，带有哑光灰色墙壁和标有标牌的工业门”，
+“time_of_day”： “柔和漫射光的正午”，
+“environment”： “干净的中性空间，微妙的头顶照明，柔和的背景，专注于主体”
+  },
+“visual_details”： {
+“action”： “当女人摆出俏皮的爪子姿势并眨眼时，一个像素艺术人物出现在右下角，模仿她的动作与夸张的卡通表情完美同步”，
+“props”： “带有白色'请勿打开'标签的可见门，灰色镶板，工作室地砖”
+  },
+“电影摄影”： {
+“lighting”： “柔和的顶部照明，带有一丝弹性，以保持面部魅力和肤色”，
+“tone”： “轻松愉快、异想天开、迷人，在现实主义和像素艺术之间带有一丝超现实主义的对比”
+  },
+“音频”： {
+“ambient”： “柔和的工作室房间音调，微弱的运动回声”，
+“sound_effects”： “当女性和像素角色都举起手时发出轻柔的蜂鸣声，当像素角色出现时发出柔和的数字爆裂声”
+  },
+“color_palette”： “中性灰色，带有黑白的流行效果，像素字符中略带柔和的腮红色调，以增强暖色”，
+“对话”： {
+“character”： “女人”，
+“line”： “（欢快地，眨眼） \”Rawr！我是像素完美的！
+“subtitles”： false
+  }
+}
+```
+
+https://github.com/user-attachments/assets/d49d432c-df2a-4a2b-86d0-389fcb6cf70e
