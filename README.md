@@ -7,7 +7,7 @@
 
 ---
 <a id="join_chat"></a>
-## 加入群聊《AI技术学习交流群》
+## 关注公众号后，加入群聊《AI技术学习交流群》
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/gzh.png" style="width: 48%;">
 </div>
