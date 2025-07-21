@@ -46,6 +46,424 @@
 *   [案例 2：女性在书桌前主持播客 ](#prompt-2)
 *   [案例 1：ASMR-切猕猴桃 ](#prompt-1)
 ---
+
+<a id="prompt-40"></a>
+## 案例40 (来源 [@emollick](https://x.com/emollick/status/1946406544171569438))
+
+**英文提示词：**
+```
+Please enjoy, in order: GTA, Pokemon, Mario Kart, The Witcher 3, Stardew Valley,  Tetris, Mortal Kombat, The Sims, & Death Stranding(!)
+```
+
+**中文提示词：**
+```
+请按顺序欣赏：GTA、宝可梦、马里奥赛车、巫师 3、星露谷物语、俄罗斯方块、真人快打、模拟人生、以及死亡搁浅(!)
+```
+https://github.com/user-attachments/assets/ee334512-c6c7-4deb-ad30-74e6675db52b
+
+<a id="prompt-39"></a>
+## 案例39 (来源 [@CoffeeVectors](https://x.com/CoffeeVectors/status/1946596924313772117))
+
+**英文提示词：**
+```
+Avengers, Lord of the Rings, Transformers, Harry Potter, Top Gun, Dune, Predator, Ghostbusters, Titanic, Wakanda Forever, Batman, 300
+```
+
+**中文提示词：**
+```
+复仇者联盟，指环王，变形金刚，哈利波特，壮志凌云，沙丘，掠食者，捉鬼敢死队，泰坦尼克号，瓦坎达永远，蝙蝠侠，300
+```
+https://github.com/user-attachments/assets/f4d16caa-bc10-4fd2-942b-431804ea15ce
+
+<a id="prompt-38"></a>
+## 案例38 (来源 [@venturetwins](https://x.com/venturetwins/status/1946641844005490809))
+
+**英文提示词：**
+```
+{ "description": "Photorealistic cinematic shot of an empty pastel-pink bedroom with white wood floors and soft daylight streaming in. A sealed Hello Kitty box with a pink bow sits in the center. It wiggles, then bursts open in a bright, sparkly puff. The room transforms instantly No text.", 
+"style": "photorealistic cinematic", 
+"camera": "fixed wide angle, front-facing for symmetrical reveal", 
+"lighting": "soft, diffused natural light with subtle pink glow accents", 
+"room": "blank pastel bedroom transformed into a Hello Kitty sanctuary", 
+"elements": [ "Hello Kitty box (logo and bow visible)", "Hello Kitty bedding and pillows", 
+"plushies (Hello Kitty, My Melody, Cinnamoroll, Kuromi)", "wall art or framed posters", "floating shelves with figurines and pastel accessories", "vanity with mirror and pink chair", "Hello Kitty lamp or neon sign", "heart rug or fluffy floor mat", "bow-shaped throw pillows" ], 
+"motion": "box opens, cute Sanrio items explode out and assemble rapidly and precisely", "ending": "soft, cozy Hello Kitty room glowing with pink warmth and charm", 
+"text": "none", 
+"keywords": [ "16:9", "Hello Kitty", "Sanrio", "pastel bedroom", "fast assembly", "no text", "photorealistic", "pink explosion", "cozy kawaii" 
+] 
+}
+```
+
+**中文提示词：**
+```
+{ "description": "一张空旷的淡粉色卧室的逼真电影镜头拍摄照片，白色木地板和柔和的日光流进。一个系着粉色蝴蝶结的密封 Hello Kitty 盒子坐在中间。它晃动了一下，然后在一个明亮、闪亮的爆炸中打开。房间瞬间变化，没有文字。", 
+"style": "逼真电影风格", 
+"camera": "固定广角，正面拍摄以对称揭示"
+"光线": "柔和、散射的自然光，带有微妙的粉色光晕点缀", 
+"房间": "空白的淡粉色卧室转变为 Hello Kitty 圣地", 
+"元素": [ "Hello Kitty 盒子（标志和蝴蝶结可见）", "Hello Kitty 床品和枕头", 
+"毛绒玩具（Hello Kitty、My Melody、Cinnamoroll、Kuromi）", "墙画或装裱海报", "带有摆件和淡粉色装饰品的悬浮架", "带镜子和粉色椅子的梳妆台", "Hello Kitty 灯或霓虹灯牌", "心形地毯或蓬松的地垫", "蝴蝶结形状的抱枕" ],
+"motion": "盒子打开，可爱的三丽鸥商品爆炸般飞出并迅速精确地组装起来", "ending": "柔和温馨的 Hello Kitty 房间散发着粉色温暖与魅力", 
+"text": "无", 
+"keywords": [ "16:9", "Hello Kitty", "三丽鸥", "淡彩色卧室", "快速组装", "无文字", "照片级真实", "粉色爆炸", "舒适可爱" ]
+] 
+}
+```
+https://github.com/user-attachments/assets/dab6310f-773b-467b-8c34-bad66ab0f1c4
+
+<a id="prompt-37"></a>
+## 案例37 (来源 [@venturetwins](https://x.com/venturetwins/status/1946582970380501122))
+
+**英文提示词：**
+```
+{
+"description": "Cinematic shot of a sunlit, empty kitchen. A sealed Chewy box sits in the center. It trembles, explodes open in one burst, and pet supplies rapidly assemble into place: food and water bowls, a dog bed, toys, and a bag of food. A dog runs in and flops into the bed. No text.",
+"style": "cinematic",
+"camera": "fixed wide angle",
+"lighting": "natural warm with soft shadows",
+"room": "modern kitchen with hardwood floors",
+"elements": [
+"Chewy box (logo visible)",
+"dog food and water bowls", "
+dog bed",
+"dog toys (rope, ball, bone)",
+"bag of dog food",
+"wall hook with leash",
+"dog (golden retriever)" ],
+"motion": "box explodes open, dog items fly out and assemble rapidly and precisely",
+"ending": "dog enters and settles happily into the bed",
+"text": "none",
+"keywords": [
+"16:9",
+"Chewy",
+"pet supplies",
+"fast assembly",
+"dog",
+"no text",
+"warm lighting"
+]
+}
+```
+
+**中文提示词：**
+```
+{
+"description": "阳光明媚、空旷的厨房的影棚拍摄画面。一个密封的 Chewy 盒子位于中央。它颤抖着，突然爆炸开来，宠物用品迅速组装到位：食物和水碗、狗床、玩具和一袋食物。一只狗跑进来，扑到床上。无文字。",
+"风格": "电影感",
+"相机": "固定广角",
+"灯光": "自然温暖柔和阴影",
+"房间": "现代厨房，硬木地板"
+"元素": [
+"Chewy 盒子（可见标志）",
+"狗粮和水碗",
+"狗床",
+"狗玩具（绳索、球、骨头）",
+"狗粮袋",
+"带牵引绳的墙钩",
+"狗（金毛寻回犬）" ],
+"动作": "盒子爆炸打开，狗的物品飞出并迅速精确地组装起来",
+"结局": "狗进入并愉快地安顿在床上",
+"文字": "无",
+"关键词": []
+"16:9",
+"Chewy",
+"宠物用品",
+"快速组装",
+"狗",
+"无文字",
+"暖色调灯光"
+]
+}
+```
+https://github.com/user-attachments/assets/b84e1bc3-f4ec-4a82-a824-ad4feb498280
+
+<a id="prompt-36"></a>
+## 案例36 (来源 [@oran_ge](https://x.com/oran_ge/status/1946792652122525801))
+
+**中文提示词：**
+```
+Photorealistic cinematic shot of an empty [未来主义极简风格] bedroom with white wood floors and soft daylight streaming in. A sealed [印有'Orange AI'标志的金属科技箱] sits in the center. It wiggles, then bursts open in a bright, [橙色] sparkly puff. The room transforms instantly into a [未来科技实验室] sanctuary. No text. 风格: photorealistic cinematic 镜头: fixed wide angle, front-facing for symmetrical reveal 灯光: soft, diffused natural light with subtle [橙色] glow accents 房间: blank [未来主义极简风格] bedroom transformed into a [未来科技实验室] sanctuary 核心元素: [印有'Orange AI'标志的金属科技箱] (logo and details visible) [全息数据显示屏和人体工学指挥椅] plushies ([瓦力机器人模型], [MOSS核心单元模型], [大白模型], [塔奇克马模型]) wall art or framed posters of [J.A.R.V.I.S.界面] and their world floating shelves with figurines and [橙色] accessories vanity with mirror and [橙色] chair [AI实验室] lamp or a neon sign of a [大脑神经元符号] [电路板图案] rug or fluffy floor mat [机器人头盔]-shaped throw pillows 动态: [印有'Orange AI'标志的金属科技箱] opens, themed [人工智能] items explode out and assemble rapidly and precisely, [一只拟人化的橘子出现在桌前对着麦克风说话] 结局: soft, cozy [未来科技实验室] room glowing with [橙色] warmth and [智能与创新] charm 文本: none 关键词: 16:9, [人工智能], [科幻电影], [橙色] bedroom, fast assembly, no text, photorealistic, [橙色] explosion, [智能与创新]
+```
+https://github.com/user-attachments/assets/885e67a5-84b7-4d5e-901e-a0b10cbe3192
+
+<a id="prompt-35"></a>
+## 案例35 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1946640269451083971))
+
+**英文提示词：**
+```
+A warmly lit living room at night, seen from an angle that shows the couple on a couch and part of the television screen. They sit relaxed, in the soft glow of a table lamp, surrounded by cozy decor blankets, a coffee table with snacks. The TV plays an indistinct show until it abruptly flickers. The screen now displays a live feed of the exact living room, same lighting, same posture, same moment. The couple stares in disbelief as they recognize themselves onscreen. The woman gasps, clutching the man’s arm. The candlelight trembles. They remain frozen, disturbed by the uncanny reflection.
+```
+
+**中文提示词：**
+```
+一个夜晚温暖明亮的客厅，从能看到沙发上情侣和部分电视屏幕的角度拍摄。他们放松地坐着，被桌灯柔和的光芒包围，周围是舒适的装饰毯子、摆满零食的咖啡桌。电视播放着模糊不清的节目，突然闪烁了一下。屏幕现在显示的是这个客厅的实时画面，同样的光线，同样的姿势，同样的时刻。情侣们难以置信地认出屏幕上的自己。女人倒吸一口冷气，抓住男人的手臂。烛光摇曳。他们僵住，被这诡异的反影所困扰。
+```
+https://github.com/user-attachments/assets/be7b40ec-86e5-4a4b-9f80-a13df9bb6ee0
+
+<a id="prompt-34"></a>
+## 案例34 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1946869636563185884))
+
+**英文提示词：**
+```
+{
+  "video_length": 8,
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "visual": "A cold Coca-Cola glass bottle stands upright against a deep red gradient background. It’s covered in glistening condensation. The red bottle cap, embossed with the Coca-Cola logo, shines under a spotlight. Vapor gently rises from the base.",
+      "camera": "quick dolly-in toward the bottle with a slight tilt up, shallow depth of field",
+      "sound": "soft ambient fizzing, subtle whoosh as camera moves"
+    },
+    {
+      "start": 2.0,
+      "end": 3.5,
+      "visual": "Close-up: the red Coca-Cola cap twists sharply and pops off with force. The cap spins in the air, showing the Coca-Cola logo in full as it rotates. Droplets fly off naturally with realistic gravity and inertia.",
+      "camera": "snap zoom-in then slow-motion tracking of the cap mid-air",
+      "sound": "crisp metallic twist, loud pop, carbonated hiss, followed by airy spin whoosh"
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "visual": "The Coca-Cola liquid flows out slightly, then wraps around the bottle in a high-speed swirl. The swirl follows a natural spiral pattern, with tiny droplets flying in all directions — rendered with realistic physics. The bottle remains still at the center.",
+      "camera": "dynamic orbit shot around the bottle as liquid spins",
+      "sound": "rich flowing liquid SFX, sparkling fizz buildup, airy rise"
+    },
+    {
+      "start": 5.5,
+      "end": 8.0,
+      "visual": "Final wide shot: the Coca-Cola bottle stands proud in the center. Red background glows subtly. Coca-Cola logo fades in above the bottle. A voice clearly says 'Coca-Cola' as the sonic sparkle finishes. Lens flare glides across as the screen fades out.",
+      "camera": "locked hero shot, slow ambient glow increase",
+      "sound": "bottle clink, soft chime, then voice saying 'Coca-Cola' with natural tone"
+    }
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"视频长度": 8,
+"场景": [
+    {
+"start": 0.0,
+      "end": 2.0,
+      "visual": "一个冰冷的可口可乐玻璃瓶直立在深红色渐变背景前。它覆盖着闪亮的冷凝水。带有可口可乐标志的红色瓶盖在聚光灯下闪耀。瓶底有轻柔的蒸汽升起。",
+      "camera": "快速向前推镜头靠近瓶子，略微向上倾斜，浅景深"
+"声音": "柔和的环境气泡声，相机移动时轻微的呼啸声"
+    },
+    {
+      "开始": 2.0,
+"end": 3.5,
+      "visual": "特写：红色可口可乐瓶盖猛地旋转并用力弹开。瓶盖在空中旋转，随着旋转可口可乐标志完全显现。水滴自然飞溅，具有逼真的重力和惯性效果。",
+      "camera": "快速拉近后转为空中瓶盖的慢动作跟踪",
+      "sound": "清脆的金属旋转声，响亮的弹开声，碳酸嘶嘶声，随后是空中的旋转呼啸声"
+    },
+    {
+"start": 3.5,
+      "end": 5.5,
+"视觉": "可口可乐液体略微流出，然后以高速旋转包裹瓶身。旋转遵循自然螺旋模式，细小的液滴向四面八方飞溅——采用逼真的物理渲染。瓶子保持在中心静止。",
+"相机": "围绕瓶子动态环绕拍摄，液体旋转时拍摄",
+"声音": "丰富的流动液体音效，气泡积聚的嘶嘶声，轻柔的上升声"
+    },
+    {
+"start": 5.5,
+      "end": 8.0,
+      "visual": "最终全景：可口可乐瓶子傲然立于画面中央。红色背景微弱发光。可口可乐标志在瓶子上方逐渐浮现。随着音效火花结束，清晰地说出'可口可乐'。镜头眩光划过，屏幕逐渐变暗。",
+"camera": "锁定主角镜头，环境光缓慢增强",
+      "sound": "瓶盖碰撞声，轻柔的叮铃声，随后是自然语调的‘可口可乐’声"
+    }
+  ]
+}
+```
+https://github.com/user-attachments/assets/05886d84-2949-4075-a3cc-4d77e15bc0fc
+
+<a id="prompt-33"></a>
+## 案例33 (来源 [@heyglif](https://x.com/heyglif/status/1947035392496238817))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "Extreme close-up, 135mm lens, shoulder-mounted for subtle sway",
+    "camera_motion": "slow left-to-right pan with slight handheld shake",
+    "frame_rate": "60fps",
+    "film_grain": "slight vintage grain with digital clarity"
+  },
+  "subject": {
+    "description": "calloused hands with soot-stained fingertips rapidly typing on burning keys",
+    "wardrobe": "charcoal black hoodie sleeves pushed up to elbows",
+    "character_consistency": "calloused hands with soot-stained fingertips rapidly typing on burning keys"
+  },
+  "scene": {
+    "location": "dark forge-style desktop lit by glowing coals",
+    "time_of_day": "late evening",
+    "environment": "embers floating in smoky low-light haze"
+  },
+  "visual_details": {
+    "action": "keys ignite on each press, flaring momentarily before cooling to a glow, smoke curling with every impact",
+    "props": "keyboard forged from volcanic glass and ember veins",
+    "physics": "realistic ember flare-up and ash behavior with particle glow diffusion"
+  },
+  "cinematography": {
+    "lighting": "backlit ember underglow with dynamic contrast",
+    "tone": "intense, elemental, darkly magical",
+    "color_palette": "burnt oranges, obsidian black, crimson pulses"
+  },
+  "audio": {
+    "dialogue": null,
+    "primary_sounds": "crackles, fire pops, crunch of hot glass under fingers",
+    "ambient": "deep furnace hum and distant metallic resonance",
+    "environmental_details": "ash settling and faint ember crackling",
+    "music": "no music",
+    "technical_effects": "ASMR mic with heat-reactive reverb tail"
+  },
+  "style": {
+    "visual_aesthetic": "fantasy realism with ASMR emphasis",
+    "aspect_ratio": "16:9",
+    "quality": "4K"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"shot": {
+    "composition": "极近距离拍摄，135mm 镜头，肩扛式以实现轻微摇摆",
+"camera_motion": "缓慢的从左到右的摇摄，带有轻微的手持晃动",
+"frame_rate": "60fps",
+"film_grain": "轻微的复古颗粒感与数字清晰度"
+  },
+"subject": {
+    "description": "布满老茧的手指沾满烟灰，在燃烧的键盘上快速打字",
+    "wardrobe": "煤黑色连帽衫袖子推到肘部",
+    "character_consistency": "布满老茧的手指沾满烟灰，在燃烧的键盘上快速打字"
+  },
+"场景": {
+"地点": "由发光煤炭照亮的黑暗锻造风格桌面",
+"一天中的时间": "深夜",
+"环境": "火星在烟雾弥漫的低光薄雾中漂浮"
+  },
+"视觉细节": {
+"动作": "每次按键时钥匙都会点燃，短暂闪烁后冷却成微光，每次撞击都有烟雾盘旋"
+"props": "火山玻璃锻造的键盘，带有余烬脉络",
+    "physics": "逼真的余烬爆发和灰烬行为，带有粒子光晕扩散"
+  },
+  "cinematography": {
+"lighting": "逆光下的余烬辉光，动态对比强烈",
+    "tone": "激烈，原始，暗黑魔法感",
+    "color_palette": "焦橙色，黑曜石黑，深红脉冲"
+  },
+"audio": {
+"dialogue": null,
+"primary_sounds": "噼啪声，火焰爆裂声，手指下热玻璃的碎裂声",
+"ambient": "深重的炉火嗡鸣声和遥远的金属共鸣声",
+"环境细节": "灰烬沉降和微弱的余烬噼啪声",
+    "音乐": "无音乐",
+    "技术特效": "ASMR 麦克风配带热反应混响尾音"
+  },
+"style": {
+    "visual_aesthetic": "奇幻写实风格，强调 ASMR 效果",
+    "aspect_ratio": "16:9",
+    "quality": "4K"
+  }
+}
+```
+https://github.com/user-attachments/assets/9339d8aa-31a7-4c29-8279-9936eb62076e
+
+<a id="prompt-32"></a>
+## 案例32 (来源 [@NotPhilSledge](https://x.com/NotPhilSledge/status/1946882353709883451))
+
+**英文提示词：**
+```
+{
+  "description": "Photorealistic cinematic shot of a sunlit minimalist living room. A sealed LEGO Star Wars Millennium Falcon box trembles, opens, and hundreds of detailed gray, silver, and blue LEGO pieces assemble rapidly into the iconic Millennium Falcon spacecraft—complete with rotating turrets, satellite dish, cockpit, and rear thrusters—on a large wooden table. No text.",
+  "style": "photorealistic cinematic",
+  "camera": "fixed overhead to capture full spacecraft layout",
+  "lighting": "natural bright with soft highlights and gentle shadows",
+  "room": "minimalist living room with large wooden table and neutral décor",
+  "elements": [
+    "LEGO Star Wars Millennium Falcon box (Star Wars logo visible)",
+    "gray, silver, and blue LEGO pieces",
+    "detailed Millennium Falcon body",
+    "rotating gun turrets",
+    "sensor dish",
+    "cockpit canopy",
+    "engine thrusters",
+    "boarding ramp extended",
+    "LEGO Star Wars minifigures (Han Solo, Chewbacca, Leia, C-3PO, R2-D2)",
+    "small display of spare tools and blasters nearby"
+  ],
+  "motion": "box rattles, lid bursts open, bricks and plates fly out and lock together mid-air to form the Millennium Falcon, rotating turrets and sensor dish assemble dynamically, minifigures position themselves around the ship",
+  "ending": "a fully assembled, iconic LEGO Millennium Falcon glistens in sunlight across the table, cockpit facing forward",
+  "text": "none",
+  "keywords": [
+    "16:9",
+    "LEGO Star Wars",
+    "Millennium Falcon",
+    "fast assembly",
+    "photorealistic",
+    "no text",
+    "overhead shot",
+    "bright natural lighting",
+    "detailed spacecraft"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+ "描述": "阳光明媚的极简主义客厅的逼真电影镜头。一个密封的乐高星球大战千年隼盒子颤抖、打开，数百个详细的灰色、银色和蓝色乐高零件迅速组装成标志性的千年隼太空船——配有旋转炮塔、卫星天线、驾驶舱和后部推进器——放在一张大木桌上。没有文字。",
+ "风格": "逼真电影"
+"相机": "固定在头顶以捕捉完整航天器布局",
+  "照明": "自然明亮，带有柔和高光和柔和阴影",
+  "房间": "极简主义客厅，有大木桌和中性装饰",
+  "元素": []
+"乐高星球大战千年隼盒子（可见星球大战标志）",
+"灰色、银色和蓝色的乐高零件",
+"细节丰富的千年隼机身",
+"旋转的炮塔"
+"传感器碟",
+"驾驶舱罩",
+"引擎推进器",
+"登机坡道展开"
+"乐高星球大战小人（汉·索罗、楚巴卡、莉亚公主、C-3PO、R2-D2)",
+"附近摆放着一些小工具和激光枪"
+],
+"动作": "盒子发出嘎嘎声，盖子突然炸开，积木和底板飞出并在空中锁在一起形成千年隼，旋转炮塔和传感器盘动态组装，小人围绕飞船定位"
+"结尾": "一辆完全组装好的、标志性的乐高千年隼在阳光下闪闪发光，停在桌子上，驾驶舱朝前",
+"text": "none",
+"关键词": [
+    "16:9"
+"乐高星球大战",
+"千年隼",
+"快速组装",
+"照片级真实感",
+"没有文字",
+"俯拍视角",
+"明亮自然光照",
+"精细的航天器"
+  ]
+}
+```
+https://github.com/user-attachments/assets/49a34403-2c6a-4fbf-a719-5feab42d3f8f
+
+<a id="prompt-31"></a>
+## 案例31 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1946702904896684040))
+
+**英文提示词：**
+```
+Anime-style combat sequence: two rivals fight in an abandoned factory — the camera bounces with each impact, handheld-style — steel sparks, crates shatter, and their final clash sends a shockwave through the walls
+```
+
+**中文提示词：**
+```
+动漫风格的战斗序列：两个对手在废弃工厂中战斗——摄像机随着每次撞击而晃动，手持式拍摄——钢花四溅，箱子碎裂，他们的最终碰撞在墙壁上激起冲击波
+```
+https://github.com/user-attachments/assets/3389b7a6-4910-4e21-8d22-31e5d5affa53
+
 <a id="prompt-30"></a>
 ## 案例30 (来源 [@op7418](https://x.com/op7418/status/1947148251100319979))
 
