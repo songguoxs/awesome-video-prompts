@@ -28,6 +28,250 @@
 *   [案例 2：女性在书桌前主持播客 ](#prompt-2)
 *   [案例 1：ASMR-切猕猴桃 ](#prompt-1)
 ---
+<a id="prompt-21"></a>
+## 案例21 (来源 [@techhalla](https://x.com/techhalla/status/1947265082653614244))
+
+**英文提示词：**
+```
+{
+  "scene_description": "A dull backyard seen from above. An Amazon package sits in the center. It opens instantly, triggering a fast, rhythmic transformation: sofas, pergola, fire pit, table, chairs, trees, plants, and lights blop into place, turning the space into a lush, high-end garden.",
+  "visual_style": "realistic",
+  "camera_movement": "aerial descent, then slow tracking-in as the garden builds",
+  "main_subject": "Amazon box triggering the creation of a furnished modern garden",
+  "background_setting": "residential backyard",
+  "lighting_mood": "warm natural afternoon light",
+  "audio_cue": "clean blop sounds for each object; soft ambient nature background"
+}
+```
+
+**中文提示词：**
+```
+{
+“scene_description”： “从上面看，一个沉闷的后院。一个亚马逊包裹位于中间。它立即打开，引发快速、有节奏的转变：沙发、凉棚、火坑、桌子、椅子、树木、植物和灯光就位，将空间变成一个郁郁葱葱的高端花园。
+“visual_style”： “现实的”，
+“camera_movement”： “空中下降，然后随着花园的建造而缓慢跟踪”，
+“main_subject”： “亚马逊盒子触发了带家具的现代花园的创建”，
+“background_setting”： “住宅后院”，
+“lighting_mood”：“温暖的自然午后光”，
+“audio_cue”： “每个对象的干净哔哔声;柔和的环境自然背景”
+}
+```
+https://github.com/user-attachments/assets/67e87bc3-08f2-4f8e-98f2-4abe7fb7fe29
+
+<a id="prompt-20"></a>
+## 案例20 (来源 [@techhalla](https://x.com/techhalla/status/1947265104862474631))
+
+**英文提示词：**
+```
+{ "scene_description": "A white classic Vans sneaker floats mid-air, slowly spinning. Suddenly, a burst of vibrant paint splashes across it — black and neon green. The shoe transforms instantly into a bold fashion-forward version in black with acid green details. In the blurred background, a skatepark can be seen, but the focus remains solely on the shoe.", "visual_style": "high-fashion streetwear", "camera_movement": "slow-motion rotation of the sneaker, locked-on shot with shallow depth of field", "main_subject": "Vans sneaker transforming mid-air from classic white to black and neon green", "background_setting": "blurred skatepark with ramps and urban textures", "lighting_mood": "even, soft light with focus on color contrast and texture", "audio_cue": "slow whoosh, paint burst impact, subtle tone shift at the transformation" }
+```
+
+**中文提示词：**
+```
+{ “scene_description”： “一双白色经典的 Vans 运动鞋漂浮在半空中，缓慢旋转。突然，一阵充满活力的油漆溅到它上面——黑色和霓虹绿。这款鞋立即转变为带有酸性绿色细节的黑色大胆时尚前卫版本。在模糊的背景中，可以看到一个滑板公园，但焦点仍然只集中在鞋子上。“， ”visual_style“： ”高级时装街头服饰“， ”camera_movement“： ”运动鞋的慢动作旋转，浅景深锁定镜头“， ”main_subject“： ”Vans 运动鞋在半空中从经典的白色转变为黑色和霓虹绿“， ”background_setting“： ”带有坡道和城市纹理的模糊滑板公园“， “lighting_mood”： “均匀、柔和的光线，注重色彩对比度和纹理”， “audio_cue”： “缓慢的嗖嗖声，油漆爆裂的冲击力，变换时微妙的色调变化” }
+```
+https://github.com/user-attachments/assets/102eb397-2c29-4792-93e9-ef030397f921
+
+<a id="prompt-19"></a>
+## 案例19 (来源 [@techhalla](https://x.com/techhalla/status/1947265101725114502))
+
+**英文提示词：**
+```
+{ "scene_description": "A skateboarder flips a board over a set of stairs in slow motion. As the board spins, it reveals the Supreme logo underneath. The landing is hard and clean. The logo is reflected in a puddle next to the skater’s feet.", "visual_style": "gritty skate aesthetic", "camera_movement": "360 rotation during kickflip, locked-on landing", "main_subject": "Supreme board in mid-air with logo reveal", "background_setting": "concrete urban plaza", "lighting_mood": "late afternoon city shadows", "audio_cue": "board wheels, air whip, stomp, puddle ripple" }
+```
+
+**中文提示词：**
+```
+{ “scene_description”： “滑板手以慢动作将一块板翻转到一组楼梯上。当棋盘旋转时，它会露出下面的 Supreme 标志。着陆又硬又干净。标志反映在滑冰者脚边的水坑中。“， ”visual_style“： ”坚韧不拔的滑板美学“， ”camera_movement“： ”踢空翻时的 360 度旋转，锁定着陆“， ”main_subject“： ”半空中的至尊板，标志显现“， ”background_setting“： ”混凝土城市广场“， ”lighting_mood“： ”傍晚的城市阴影“， ”audio_cue“： ”板轮、空气鞭、跺脚、水坑涟漪“ }
+```
+https://github.com/user-attachments/assets/bfaddb02-617d-4eff-af9e-5a112bc2ea8e
+
+<a id="prompt-18"></a>
+## 案例18 (来源 [@techhalla](https://x.com/techhalla/status/1947265094620004700))
+
+**英文提示词：**
+```
+{ "scene_description": "A photographer points a Canon EOS camera at a tiger walking slowly toward frame. The lens clicks — instantly, the scene freezes into a crystal-clear photo. The tiger disappears. Only the image remains, with the Canon logo in the bottom corner.", "visual_style": "wildlife cinematic", "camera_movement": "handheld feel, quick snap to static composition", "main_subject": "Canon camera capturing a wild animal mid-action", "background_setting": "jungle or dry grassland", "lighting_mood": "natural light with rich saturation", "audio_cue": "camera shutter snap, then ambient cutout to silence"}
+```
+
+**中文提示词：**
+```
+{ “scene_description”： “一位摄影师将佳能 EOS 相机对准一只慢慢走向画面的老虎。镜头咔嗒一声——瞬间，场景定格成一张水晶般清晰的照片。老虎消失了。“， ”visual_style“： ”野生动物电影“， ”camera_movement“： ”手持感觉，快速捕捉静态构图“， ”main_subject“： ”佳能相机捕捉野生动物的动作中“， ”background_setting“： ”丛林或干燥草原“， ”lighting_mood“： ”饱和度丰富的自然光“， ”audio_cue“： ”相机快门快照，然后环境切口到静音“}
+```
+https://github.com/user-attachments/assets/532c38cf-1055-444e-8a3e-e1d2edacef95
+
+<a id="prompt-17"></a>
+## 案例17 (来源 [@techhalla](https://x.com/techhalla/status/1947265091746844876))
+
+**英文提示词：**
+```
+{ "scene_description": "A circuit board pulses with red energy. Sparks travel across its paths until they converge and explode into the ROG logo, which hovers above the board glowing in red and silver.", "visual_style": "futuristic high-tech", "camera_movement": "fast tracking over circuit paths, ending in dramatic logo reveal", "main_subject": "ROG logo forming from energy traveling across circuitry", "background_setting": "dark tech environment", "lighting_mood": "moody dark with neon red highlights", "audio_cue": "electric pulses, deep bass hum, digital spark"}
+```
+
+**中文提示词：**
+```
+{ “scene_description”： “电路板以红色能量脉冲。火花穿过它的路径，直到它们汇聚并爆炸成 ROG 标志，ROG 标志盘旋在电路板上方，发出红色和银色的光芒。“， ”visual_style“： ”未来派高科技“， ”camera_movement“： ”快速跟踪电路路径，以戏剧性的标志揭晓结束“， ”main_subject“： ”ROG 标志由能量穿过电路传播形成“， ”background_setting“： ”黑暗科技环境“， ”lighting_mood“： “Moody Dark with Neon Red Highlights”， “audio_cue”： “电脉冲、深沉的低音嗡嗡声、数字火花”}
+```
+https://github.com/user-attachments/assets/29fdc409-9d2f-4645-b2c5-87aa7005440a
+
+<a id="prompt-16"></a>
+## 案例16 (来源 [@techhalla](https://x.com/techhalla/status/1947265088391397689))
+
+**英文提示词：**
+```
+{
+  "scene_description": "A torero stands alone in an empty bullring, holding an ultra-slim LG TV like a shield. The screen shows a vivid, pure red. He shouts 'Hey!' and the camera cuts to a massive black bull. It charges. Right before impact, the scene cuts to solid red. The LG logo appears in white, then the words 'Pure Red'. Finally, the bull crashes through the red screen, shattering it visually.",
+  "visual_style": "cinematic",
+  "camera_movement": "push-in on torero, whip-pan to bull, sharp cut to red, final VFX screen break from off-screen",
+  "main_subject": "torero with LG TV showing pure red, ending with bull breaking the final screen",
+  "background_setting": "sunlit empty bullring",
+  "lighting_mood": "golden-hour with strong contrast",
+  "audio_cue": "wind, torero's shout, bull snort and charge, silence, glass break",
+  "dialog": "0:04 — Torero: 'Hey!'\n0:08 — [Bull breaks screen]",
+  "subtitles": "OFF"
+}
+```
+
+**中文提示词：**
+```
+{
+“scene_description”： “一个斗牛人独自站在空荡荡的斗牛场里，像盾牌一样拿着一台超薄的 LG 电视。屏幕显示鲜艳、纯净的红色。他大喊“嘿！”，镜头切换到一头巨大的黑牛。它收费。在撞击之前，场景切换为纯红色。LG 标志以白色出现，然后是“Pure Red”字样。最后，公牛冲破了红屏，在视觉上将其粉碎。
+“visual_style”： “电影”，
+“camera_movement”：“在托雷罗上推入，鞭打到公牛，锐切到红色，最终的视觉特效屏幕从屏幕外中断”，
+“main_subject”： “torero 与 LG 电视呈现纯红色，以公牛打破最终屏幕而告终”，
+“background_setting”： “阳光明媚的空斗牛场”，
+“lighting_mood”：“对比强烈的黄金时段”，
+“audio_cue”：“风，托雷罗的呐喊，公牛的鼻息和冲锋，寂静，玻璃破碎”，
+“dialog”： “0：04 — Torero：'嘿！\n0：08 — [公牛打破屏幕]“，
+“subtitles”： “关闭”
+}
+```
+https://github.com/user-attachments/assets/6d5a4285-19c5-4431-acc1-90a4a1234e75
+
+<a id="prompt-15"></a>
+## 案例15 (来源 [@techhalla](https://x.com/techhalla/status/1947265085233102863))
+
+**英文提示词：**
+```
+{ "scene_description": "A climber reaches a summit, gasping. As they raise their arms, a sudden gust of wind pushes back their hood — revealing the North Face logo on their shoulder. Quick cut to a wide shot of the climber silhouetted against the sky with the logo clear.", "visual_style": "epic outdoor documentary", "camera_movement": "POV pan + wide drone reveal", "main_subject": "North Face jacket worn during a summit achievement", "background_setting": "mountaintop above clouds", "lighting_mood": "harsh, high-altitude natural light", "audio_cue": "wind roar, breath, short dramatic swell" }
+```
+
+**中文提示词：**
+```
+{ “scene_description”： “登山者到达顶峰，喘着粗气。当他们举起手臂时，一阵突如其来的风将他们的兜帽推开，露出了他们肩膀上的 North Face 标志。“， ”visual_style“： ”史诗般的户外纪录片“， ”camera_movement“： ”POV 平移 + 宽无人机展示“， ”main_subject“： ”登顶成就时穿的北脸夹克“， ”background_setting“： ”云层之上的山顶“， ”lighting_mood“： ”刺眼的高海拔自然光“， ”audio_cue“： ”风咆哮，呼吸，短暂的戏剧性海浪“ }
+```
+https://github.com/user-attachments/assets/baf4bcee-642d-4f10-b907-f2790c4e7971
+
+<a id="prompt-14"></a>
+## 案例14 (来源 [@Ror_Fly](https://x.com/Ror_Fly/status/1947270362233761947))
+
+**英文提示词：**
+```
+{ "description": "Cinematic close-up of a cold, dewy Corona bottle sitting alone on a weathered beach table. It begins to hum, vibrate. The bottle cap *pops*—and the entire environment unfolds from inside: palm trees rise, lights string themselves, speakers assemble mid-air, sand shifts into a dance floor. A DJ booth builds from driftwood. Music kicks in. A beach rave is born. No text.",
+  "style": "cinematic, magical realism", "camera": "starts ultra close, zooms out and cranes overhead as the world expands", "lighting": "sunset turning to neon—golden hour into party glow", "environment": "quiet beach transforms into high-energy beach rave", "elements": [ "Corona bottle (label visible, condensation dripping)", "pop-top cap in slow motion", "exploding citrus slice", "sand morphing into dance floor", "palm trees rising", "neon lights snapping on", "DJ booth building itself", "crowd materializing mid-dance", "fire pit lighting", "surfboards as signage"], "motion": "explosion of elements from bottle, everything assembles in rapid time-lapse", "ending": "Corona bottle in foreground, beach rave in full swing behind it", "text": "none", "keywords": ["Corona", "beach party", "bottle transforms", "rave build", "sunset to night", "cinematic", "no text"] 
+}
+```
+
+**中文提示词：**
+```
+{ “description”： “一个冰冷、露水的 Corona 瓶子独自坐在风化的沙滩桌上的电影特写镜头。它开始嗡嗡作响，振动。瓶盖“爆裂”——整个环境从里面展开：棕榈树升起，灯光串起，扬声器在半空中组装，沙子变成舞池。DJ 台是用浮木建造的。音乐开始了。海滩狂欢诞生了。没有文字。
+“style”： “cinematic， magical realism”， “camera”： “随着世界的扩大，从超近距离开始，缩小并从头顶升起”， “lighting”： “夕阳变成霓虹灯——黄金时段变成派对光芒”， “environment”： “安静的海滩变成高能量的海滩狂欢”， “elements”： [ “Corona 瓶子（标签可见，冷凝水滴落）”， “慢动作弹出式盖子”， “爆炸的柑橘片”， “沙子变成舞池”， “棕榈树升起”， “霓虹灯啪啪作响”、“DJ 台建筑本身”、“舞中人群具体化”、“火坑照明”、“冲浪板作为标牌”]、“motion”： “元素从瓶子中爆炸，一切都在快速延时摄影中组装”， “ending”： “前景中的电晕瓶，后面如火如荼地进行海滩狂欢”， “text”： “none”， “keywords”： [“Corona”， “beach party”， “bottle transforms”， “rave build”， “sunset to night”， “cinematic”， “no text” ] 
+}
+```
+
+https://github.com/user-attachments/assets/f64d0f07-49b6-4eef-b5ef-75d2f21d28ab
+
+<a id="prompt-13"></a>
+## 案例13 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1947260745848168741))
+
+**英文提示词：**
+```
+{
+  "video_length": 8,
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "visual": "Apple earbuds appear in flashes over black void. Each flash reveals angle: top, side, front. Particles burst with light impact.",
+      "camera": "snap zooms, hard cuts",
+      "sound": "tight bass drops per cut"
+    },
+    {
+      "start": 0.7,
+      "end": 2.0,
+      "visual": "Case pops open mid-air. Earbuds launch out in sync with beat, glowing rim light follows motion arcs.",
+      "camera": "explosive transitions, 3D spin",
+      "sound": "fast-paced pulse"
+    },
+    {
+      "start": 2.0,
+      "end": 3.5,
+      "visual": "Earbuds split apart mid-flight. Internal parts float, orbiting like choreography.",
+      "camera": "slow-motion breakaway",
+      "sound": "digital glitch rhythm"
+    },
+    {
+      "start": 3.5,
+      "end": 5.0,
+      "visual": "Floating parts twist and merge into Apple logo. Logo turns pitch black, neon rim lights glow softly.",
+      "camera": "cinematic orbit + pull back",
+      "sound": "echoing synth + Apple tone"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "visual": "Apple logo holds center with ambient glow. Background fades to deep black. Silence.",
+      "camera": "static frame",
+      "sound": "quiet fade-out"
+    }
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“video_length”：8，
+“场景”： [
+    {
+“开始”：0.0，
+“结束”：0.7，
+“visual”： “Apple 耳塞在黑色虚空中闪烁。每次闪光灯都会显示角度：顶部、侧面、正面。粒子在轻微的撞击下爆裂。
+“camera”： “快照变焦，硬剪辑”，
+“sound”： “每次剪辑的低音下降很紧”
+    },
+    {
+“开始”：0.7，
+“结束”：2.0，
+“visual”： “箱子在半空中弹开。耳塞与节拍同步启动，发光的边缘灯跟随运动弧线。
+“camera”： “爆炸性过渡，3D 旋转”，
+“sound”： “快节奏的脉搏”
+    },
+    {
+“开始”：2.0，
+“结束”：3.5，
+“visual”： “耳塞在飞行途中分开。内部部件漂浮，像编舞一样绕圈。
+“camera”： “慢动作脱离”，
+“sound”： “数字故障节奏”
+    },
+    {
+“开始”：3.5，
+“结束”：5.0，
+“visual”： “浮动部件扭曲并合并成 Apple 标志。标志变成漆黑，霓虹灯边缘灯柔和地发光。
+“camera”： “电影轨道 + 回拉”，
+“sound”： “回声合成器+苹果音”
+    },
+    {
+“开始”：5.0，
+“结束”：8.0，
+“visual”： “Apple 标志以环境光保持中心。背景逐渐变为深黑色。沉默。
+“camera”： “静态帧”，
+“sound”： “安静淡出”
+    }
+  ]
+}
+```
+https://github.com/user-attachments/assets/d2af7ffa-8080-4a7e-820d-1a8e746f6e2c
 
 <a id="prompt-12"></a>
 ## 案例12 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1941717275628724371))
