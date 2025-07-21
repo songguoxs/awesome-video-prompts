@@ -37,6 +37,691 @@
 *   [案例 2：女性在书桌前主持播客 ](#prompt-2)
 *   [案例 1：ASMR-切猕猴桃 ](#prompt-1)
 ---
+<a id="prompt-30"></a>
+## 案例30 (来源 [@op7418](https://x.com/op7418/status/1947148251100319979))
+
+**英文提示词：**
+```
+Classic Scene Description:At the top of a skyscraper, in a torrential downpour, Neo, having just rescued Morpheus, stays behind to cover his allies' escape, facing his nemesis, Agent Smith. When Smith draws his signature Desert Eagle and fires, Neo's latent potential as "The One" fully awakens. He no longer dodges but leans back, defying the laws of physics, as time itself seems to slow down. Bullets trail past him with a visible, rippling distortion of the air. This is the birth of the iconic "bullet time" in cinema history, symbolizing the awakening of Neo's belief in himself.
+Core Characters:
+
+Neo: At this moment, he is in the midst of his transformation from a confused programmer to the awakened savior. He wears his iconic long black trench coat and sunglasses, his expression focused and calm, filled with a newfound power and conviction.
+
+Agent Smith: A sentient program within the Matrix, appearing in human form. His actions are efficient, cold, and relentless. He wears a standard business suit, an earpiece, and sunglasses. He is the embodiment of control and the most formidable obstacle on Neo's path to awakening.
+
+Game Art Style: Pixel Art (16-bit Style)
+
+Game Genre: Side-Scrolling Action Shooter
+
+Gamified Scene Recreation: The classic "bullet time" sequence is translated into a retro pixel art aesthetic with gameplay focused on precise movement and shooting.
+
+Visuals:The entire scene is a side-scrolling view rendered in a 16-bit pixel art style. The color palette is predominantly dark green and gray, reflecting the rainy night. Pixelated raindrops fall visibly, creating subtle reflections on the blocky rooftop tiles. The background features a low-resolution cityscape with simple, flickering pixelated neon signs written in a generic digital font. The player controls "Neo," depicted as a sprite with clear pixel definition, wearing his long black coat and sunglasses. When "Agent Smith," another similarly detailed sprite in a black suit and sunglasses, fires his weapon (represented by a small burst of pixels), the game enters a visual "bullet time" effect. While not a true slowdown of the game engine in the traditional sense of modern "bullet time," the animation of the bullets (larger, more distinct pixel shapes with a short trail of lighter pixels) becomes noticeably slower, and Neo gains a slightly increased window for movement. His dodge maneuver is a deliberate, frame-by-frame animation of him leaning back, perhaps with a slight pixelated "blur" effect to convey speed.
+
+User Interface (UI):
+Top Left: A pixelated green bar represents Neo's health. Below it, a smaller, yellow pixelated bar indicates a "Focus" meter, which might be consumed by performing special actions or entering a heightened state reminiscent of his growing powers.
+
+Top Right: A simple pixelated score counter and possibly a combo counter that increases with rapid, successive shots.
+
+Bottom Right: Icons representing Neo's currently equipped weapon (initially just fists, but potentially gaining access to pixelated firearms) and a numerical display of his ammo count (if applicable).
+
+Music & Sound (Audio):
+
+Background Music (BGM): A synthesized, chiptune rendition of a track from The Matrix soundtrack, perhaps a 16-bit interpretation of "Spybreak!" or another iconic theme, featuring driving rhythms and digitized instruments.
+
+Sound Effects (SFX):
+Blocky, digitized gunshots ("pew-pew!").
+A distinct "whizz" or "zip" sound effect for the pixelated bullets as they travel through the air.
+A simple "thunk" sound when a character is hit.
+A brief, digitized sound effect to signify the activation of a "Focus" state.
+```
+
+**中文提示词：**
+```
+经典场景描述：在摩天大楼的顶层，在倾盆大雨中，刚刚救出墨菲斯的尼奥留下来掩护盟友的逃跑，面对他的宿敌史密斯特工。当史密斯抽出他标志性的沙漠之鹰并开火时，尼奥作为“The One”的潜在潜力完全觉醒。他不再躲闪，而是向后倾斜，违背物理定律，因为时间本身似乎变慢了。子弹从他身边掠过，空气中出现了明显的涟漪扭曲。这是电影史上标志性的“子弹时间”的诞生，象征着尼奥对自己的信念的觉醒。
+核心人物：
+
+尼奥：此刻，他正处于从一个迷茫的程序员到觉醒的救世主的转变之中。他穿着标志性的黑色长风衣，戴着墨镜，表情专注而平静，充满了一种新发现的力量和信念。
+
+史密斯特工：黑客帝国中的一个有知觉的程序，以人类形态出现。他的行动高效、冷酷、无情。他穿着标准的西装，戴着耳机，戴着墨镜。他是控制的化身，也是尼奥觉醒之路上最可怕的障碍。
+
+游戏艺术风格：像素艺术（16 位风格）
+
+游戏类型：横向卷轴动作射击游戏
+
+游戏化场景再现：经典的“子弹时间”序列被转化为复古像素艺术美学，游戏玩法侧重于精确移动和射击。
+
+视觉效果：整个场景是以 16 位像素艺术风格渲染的横向卷轴视图。调色板以深绿色和灰色为主，反映了雨夜。像素化的雨滴明显落下，在块状屋顶瓦片上产生微妙的反射。背景是低分辨率的城市景观，带有简单、闪烁的像素化霓虹灯标志，以通用数字字体书写。玩家控制“Neo”，被描绘成一个像素清晰度的精灵，穿着黑色长外套，戴着墨镜。当“史密斯特工”（另一个穿着黑色西装、戴着墨镜的类似细节精灵）开火时（由一小段像素表示），游戏进入视觉“子弹时间”效果。虽然不是传统意义上的现代“子弹时间”游戏引擎的真正减速，但子弹的动画（更大、更明显的像素形状和较浅的像素的短轨迹）变得明显变慢，并且 Neo 获得了稍微增加的移动窗口。他的闪避动作是他故意向后倾斜的逐帧动画，也许带有轻微的像素化“模糊”效果来传达速度。
+
+用户界面 （UI）：
+左上：像素化的绿色条代表 Neo 的生命值。在它下面，一个较小的黄色像素条表示一个“专注”表，可以通过执行特殊动作或进入让人想起他不断增长的力量的高度状态来消耗它。
+
+右上：一个简单的像素化分数计数器，可能还有一个组合计数器，随着快速、连续的射击而增加。
+
+右下：代表尼奥当前装备的武器（最初只是拳头，但有可能获得像素化枪支）的图标和弹药数量的数字显示（如果适用）。
+
+音乐和声音（音频）：
+
+背景音乐 （BGM）：《黑客帝国》原声带中曲目的合成芯片曲演绎，可能是对“Spybreak！”或其他标志性主题的 16 位诠释，具有驱动节奏和数字化乐器。
+
+音效 （SFX）：
+块状的、数字化的枪声（“pew-pew！
+像素化子弹在空中传播时发出明显的“嗖嗖”或“拉链”音效。
+角色被击中时发出简单的“砰砰”声。
+简短的数字化音效，表示“专注”状态的激活。
+```
+https://github.com/user-attachments/assets/9db52d16-6cc7-4d4b-8c94-05aecaaf3b36
+
+<a id="prompt-29"></a>
+## 案例29 (来源 [@op7418](https://x.com/op7418/status/1947136935648219329))
+
+**中文提示词：**
+```
+在一个充满趣味的一镜到底镜头中，经典的乐高标志将分解为无数色彩斑斓的积木颗粒，并在空中自动拼搭成一个充满想象力的模型。
+
+详细场景描述:
+
+画面始于一个纯白背景前，标志性的红色方形乐高（LEGO）标志静静悬浮。整个过程将由一个流畅、不间断的镜头完成。 标志突然轻微晃动，随后“咔”的一声，它分解为“L-E-G-O”四个独立的字母积木。紧接着，这四个字母再次爆开，化作一场五彩斑斓的积木“阵雨”倾泻而下。这些红、黄、蓝、白的标准积木颗粒在空中飞舞、旋转，被一股无形的力量牵引，以极快的速度和精准度相互“咔哒、咔哒”地扣合在一起。镜头可以跟随其中一块关键积木，看它如何找到自己的位置。最终，这些积木在空中完美地拼装成一个活泼的乐高小汽车模型。
+
+核心创意: 标志的解构与充满乐趣的重组。
+
+镜头与运镜: 严格的一镜到底（Single take / One-shot），可以带有趣味性的轻微环绕运镜，以展现拼搭过程的动态感。
+
+整体风格: 充满童趣、活泼、有创造力、令人满足。
+
+灯光: 明亮、均匀、欢快的影棚灯光，让积木的色彩显得格外鲜艳。
+
+环境: 纯白或浅灰色的极简背景，以最大限度地突出乐高积木的色彩。
+
+核心元素:
+
+经典的乐高标志
+
+分解后飞舞的各色积木颗粒
+
+空中自动拼搭的过程
+
+最终成型的乐高模型
+
+音效:
+
+背景音乐: 轻快、俏皮的旋律，可使用木琴、打击乐等乐器。
+
+特效音: 整个过程的核心是乐高积木相互扣合时清脆、悦耳、富有节奏感的“咔哒”声。
+
+结尾: 拼搭完成的乐高模型完美地静置在画面中央。画面淡出为白色。全程无任何文字。
+```
+https://github.com/user-attachments/assets/f7a48546-ddf2-41a7-bd47-620d59284a5c
+
+
+<a id="prompt-28"></a>
+## 案例28 (来源 [@JoshuaWorth](https://x.com/JoshuaWorth/status/1946674900615516202))
+
+**英文提示词：**
+```
+{
+  "description": "Cinematic shot of a sun-blasted Florida garage-bedroom hybrid. A sketchy, duct-taped flat-pack crate labeled “HANDLE WITH PRAYER” rattles like it’s trying to hatch a demon, then bursts open—parts ricochet everywhere, assembling themselves into an absurd gamer-lair crowned by a neon-pink flamingo blanket on the bed. No on-screen text.",
+  "style": "chaotic comedy",
+  "camera": "fixed wide angle (slightly shaky, like the cam operator is dodging shrapnel)",
+  "lighting": "blinding Gulf-Coast afternoon sunlight with sweaty RGB under-glow accents",
+  "room": "Florida-man garage-turned-bedroom (tool chests, surfboard, gator warning sign)",
+  "elements": [
+    "mystery crate (HANDLE WITH PRAYER stencil)",
+    "bed with neon-pink flamingo throw",
+    "tool-chest nightstands",
+    "lava-lamp bedside lights",
+    "wardrobe built from repurposed pallet wood",
+    "floating shelves holding an intimidating hot-sauce arsenal",
+    "mirror with a heroic crack",
+    "retro arcade poster wall art",
+    "pizza-slice area rug",
+    "curtains made from faded beach towels",
+    "bean-bag gaming throne",
+    "potted cactus wearing dollar-store sunglasses"
+  ],
+  "motion": "crate detonates popcorn-style; boards spin, screws zip, everything snap-locks with cartoon THWOOPS; final touch—a lone screwdriver drops from the ceiling, thunk.",
+  "ending": "camera creeps in on the now-pristine, ridiculous space as a ‘SEND IT’ neon sign flickers triumphantly above the bed.",
+  "text": "none (crate stencil counts as prop, not overlay)",
+  "keywords": [
+    "16:9",
+    "Florida-man",
+    "flat-pack mayhem",
+    "fast assembly",
+    "neon flamingo",
+    "hot & cool tones"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“description”： “佛罗里达州车库卧室混合体的电影镜头。一个标有“HANDLE WITH PRAYER”的粗略胶带扁平包装板条箱嘎嘎作响，就像它试图孵化恶魔一样，然后爆裂开来——零件到处弹跳，组装成一个荒谬的游戏玩家巢穴，床上铺着一条霓虹粉色的火烈鸟毯子。没有屏幕上的文字。
+“style”： “混乱喜剧”，
+“camera”： “固定广角（略微晃动，就像凸作员在躲避弹片）”，
+“lighting”： “墨西哥湾沿岸午后的阳光令人眼花缭乱，带有汗流浃背的 RGB 底光点缀”，
+“room”： “佛罗里达人车库改建的卧室（工具箱、冲浪板、鳄鱼警告标志）”，
+“元素”： [
+“神秘板条箱（HANDLE WITH PRAYER 模板）”，
+“带霓虹粉色火烈鸟毯的床”，
+“工具箱床头柜”，
+“熔岩灯床头灯”，
+“用重新利用的托盘木制成的衣柜”，
+“漂浮的架子上装着令人生畏的辣酱库”，
+“英勇裂纹的镜子”，
+“复古街机海报墙艺术”，
+“披萨片区域地毯”，
+“用褪色的沙滩巾制成的窗帘”，
+“豆袋游戏王座”，
+“戴着一元店太阳镜的盆栽仙人掌”
+],
+“motion”： “板条箱引爆爆米花式;木板旋转，螺丝拉链，一切都用卡通 THWOOPS 卡扣锁;最后的润色——一把孤零零的螺丝刀从天花板上掉下来，砰的一声。
+“ending”： “摄像机悄悄进入现在原始、荒谬的空间，床头上方'SEND IT'霓虹灯得意洋洋地闪烁。”
+“text”： “none （crate stencil 算作 prop，而不是叠加）”，
+“关键字”： [
+"16:9",
+“佛罗里达人”，
+“扁平包装混乱”，
+“快速组装”，
+“霓虹火烈鸟”，
+“冷热色调”
+  ]
+}
+```
+https://github.com/user-attachments/assets/b5fa36ad-9d31-4479-bb71-a34cb652e282
+
+<a id="prompt-27"></a>
+## 案例27 (来源 [@JayHygge](https://x.com/JayHygge/status/1946672756566671627))
+
+**英文提示词：**
+```
+empty bedroom with a medium sized cartoon box. boxed opened and suddenly room fully furnished
+```
+
+**中文提示词：**
+```
+空荡荡的卧室里有一个中等大小的卡通盒子。盒装打开，突然间房间家具齐全
+```
+https://github.com/user-attachments/assets/4c1aa370-ce6b-4282-9765-e3733a40ecf8
+
+<a id="prompt-26"></a>
+## 案例26 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1946530149299634618))
+
+**英文提示词：**
+```
+{
+  "description": "Cinematic shot of a sunlit Scandinavian bedroom. A sealed IKEA box trembles, opens, and flat pack furniture assembles rapidly into a serene, styled room highlighted by a yellow IKEA throw on the bed. No text.",
+  "style": cinematic",
+  "camera": "fixed wide angle",
+  "lighting": "natural warm with cool accents",
+  "room": "Scandinavian bedroom",
+  "elements": [
+    "IKEA box (logo visible)",
+    "bed with yellow throw",
+    "bedside tables",
+    "lamps",
+    "wardrobe",
+    "shelves",
+    "mirror",
+    "art",
+    "rug",
+    "curtains",
+    "reading chair",
+    "plants"
+  ],
+  "motion": "box opens, furniture assembles precisely and rapidly",
+  "ending": "calm, modern space with yellow IKEA accent",
+  "text": "none",
+  "keywords": [
+    "16:9",
+    "IKEA",
+    "Scandinavian",
+    "fast assembly",
+    "no text",
+    "warm & cool tones"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“description”： “阳光明媚的斯堪的纳维亚卧室的电影镜头。一个密封的宜家盒子颤抖着打开，扁平包装的家具迅速组装成一个宁静、有风格的房间，床上放着黄色的宜家毯子。没有文字。
+“style”：电影“，
+“camera”： “固定广角”，
+“lighting”：“自然温暖，带有冷色调”，
+“room”： “斯堪的纳维亚卧室”，
+“元素”： [
+“宜家盒子（标志可见）”，
+“带黄色毯子的床”，
+“床头柜”，
+“灯”，
+“衣柜”，
+“架子”，
+“镜像”，
+“艺术”，
+“地毯”，
+“窗帘”，
+“阅读椅”，
+“植物”
+],
+“motion”：“盒子打开，家具精确快速地组装”，
+“ending”：“平静、现代的空间，带有黄色宜家的口音”，
+“text”： “无”，
+“关键字”： [
+"16:9",
+“宜家”，
+“斯堪的纳维亚”，
+“快速组装”，
+“无文本”，
+“暖色调和冷色调”
+  ]
+}
+```
+https://github.com/user-attachments/assets/6841698b-f300-4acb-81fa-4e41d9b521c5
+
+<a id="prompt-25"></a>
+## 案例25 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1946929763030839573))
+
+**英文提示词：**
+```
+{
+  "description": "Cinematic editorial shot of an upright transparent suitcase in a plain white cyclorama studio. A burst of yellow mist fills the suitcase as it spins rapidly, transforming mid-spin into a solid yellow hard-shell suitcase. The camera pushes in smoothly before holding on the final form.",
+  "style": "editorial cinematic",
+  "camera": "precision dolly-in from 2.5m to 1.5m over 5 seconds, then static hero shot",
+  "lighting": "clean, soft, and even—no visible light sources or reflections; lighting wraps naturally with minimal shadowing",
+  "room": "plain infinite white cyclorama (no texture, no visible lights, seamless floor-to-wall transition)",
+  "elements": [
+    "transparent upright suitcase",
+    "volumetric yellow mist",
+    "solid yellow hard-shell suitcase with ribbed structure",
+    "chrome latches and telescopic handle",
+    "soft reflective white floor",
+    "faint lingering mist at base"
+  ],
+  "motion": "yellow mist violently fills the suitcase in under 2s; suitcase spins upright on vertical axis and transforms mid-spin into solid yellow shell; spin halts cleanly; camera push-in and hold",
+  "ending": "suitcase stops mid-frame in bold yellow form; mist dissipates; fade to white",
+  "text": "none",
+  "keywords": [
+    "editorial",
+    "product transformation",
+    "white cyclorama",
+    "clean studio",
+    "yellow mist",
+    "no text",
+    "no humans",
+    "4K",
+    "minimalist"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“description”： “在纯白色天幕工作室中拍摄直立透明手提箱的电影剪辑镜头。当行李箱快速旋转时，一阵黄色的雾气充满了行李箱，在旋转过程中变成了一个实心的黄色硬壳行李箱。相机在保持最终形状之前平稳地推入。
+“style”： “编辑电影”，
+“camera”： “在 5 秒内从 2.5m 精确推车进入 1.5m，然后静态英雄拍摄”，
+“lighting”：“干净、柔和、均匀——没有可见的光源或反射;光线自然包裹，阴影最小“，
+“room”： “Plain Infinite White Cyclorama（无纹理，无可见光，无缝落地过渡）”，
+“元素”： [
+“透明直立行李箱”，
+“体积黄雾”，
+“罗纹结构的实心黄色硬壳手提箱”，
+“镀铬闩锁和伸缩手柄”，
+“柔和反光白色地板”，
+“底部微弱的挥之不去的雾气”
+],
+“motion”： “不到 2 秒，黄雾猛烈地填满了行李箱;手提箱在垂直轴上直立旋转，并将旋转中转变为实心黄色外壳;旋转干净地停止;相机推入并按住“，
+“ending”： “手提箱以粗体黄色的形式停在画面中间;雾气消散;褪色为白色“，
+“text”： “无”，
+“关键字”： [
+“社论”，
+“产品改造”，
+“白色天幕”，
+“干净的工作室”，
+“黄雾”，
+“无文本”，
+“没有人类”，
+“4K”，
+“极简主义”
+]
+}
+```
+https://github.com/user-attachments/assets/279bbdec-5324-4acc-a562-f1ab2efcb413
+
+<a id="prompt-24"></a>
+## 案例24 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1946910756592820255))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "waist-level medium tracking shot (focus on hips) → mid-torso push-in",
+    "camera_motion": "smooth crane drop from 4 m to 1.0 m over 1 s, then gimbal sidestep left-right 40 cm each beat (follow hip sways) for remaining 7 s",
+    "frame_rate": "24fps",
+    "lens": "prime 40 mm throughout",
+    "depth_of_field": "medium; hips sharp, background soft",
+    "film_grain": 0.03
+  },
+
+  "subject": {
+    "entity": "charismatic Latina hip-hop performer",
+    "description": "athletic build, copper-toned skin, high velvet ponytail, holographic silver bodysuit with crystal fringes, thigh-high reflective boots; wireless mic in right hand, left hand free",
+    "movement": "booty-dance isolations: knees bent 20°, pelvis pops backward on beat-one, forward on beat-two; controlled hip rolls (no leg crossing) plus three rapid twerk pulses at 3.2 Hz; shoulders stay steady to avoid torso distortion",
+    "facial_expression": "confident smile, playful wink on downbeat two",
+    "eyes": "smoky metallic eyeshadow catching key light"
+  },
+
+  "scene": {
+    "location": "infinite white cyclorama studio (seamless wall-to-floor curve)",
+    "time_of_day": "n/a (controlled studio lighting)",
+    "environment_details": "polished white epoxy floor reflecting subtle pink/cyan rim lights; no crowd"
+  },
+
+  "visual_details": {
+    "primary_action": "performer executes booty-dance routine for full 8 s while spitting rap hook; camera’s lateral sway syncs with hip pops",
+    "secondary_motion": "thin RGB floor strips flash pink-aqua on each bass hit",
+    "duration": "8s",
+    "resolution": "4K",
+    "special_effects": [
+      "edge-lit panels sweep color across white surfaces",
+      "micro-lens flares on chrome accessories",
+      "sub-10 % slow-shutter smears on quickest hip pulses (safe threshold)"
+    ]
+  },
+
+  "cinematography": {
+    "lighting": "high-key softbox grid overhead (5600 K); magenta accent strip camera left, cyan accent camera right; gentle 0.5 s strobe on every fourth snare (≤ 0.5 stop)",
+    "style": "glossy hyper-real studio aesthetic",
+    "tone": "playful, high-energy"
+  },
+
+  "audio": {
+    "music_track": "trap-pop beat at 190 BPM, heavy 808 sub, crisp claps on 2 & 4",
+    "ambience": "subtle studio room tone (−60 LUFS)",
+    "vocal_processing": "tight slapback delay (60 ms); gentle de-ess at 6 kHz"
+  },
+
+  "dialogue": {
+    "spoken_lines": [
+      {
+        "speaker": "performer",
+        "line": "Grok4 crashin' in, meltin' chips like fire,",
+        "delivery": "assertive bounce, lands squarely on beat"
+      },
+      {
+        "speaker": "performer",
+        "line": "GPT-5 wired, but Grok takes it higher!",
+        "delivery": "rising intonation with breathy laugh tail"
+      }
+    ],
+    "subtitles": false
+  },
+
+  "color_palette": {
+    "name": "Neon on White",
+    "primary": "#FF007F",
+    "secondary": "#00FFD5",
+    "accents": "#C0C0C0",
+    "background": "#FFFFFF"
+  },
+
+  "visual_rules": {
+    "prohibited_elements": [
+      "brand logos",
+      "explicit nudity",
+      "onscreen text overlays",
+      "slow-motion exceeding 10 % stretch",
+      "lens dirt or burn-in frame lines"
+    ]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+  "镜头": {
+    "构图": "腰部水平中景跟拍（聚焦臀部）→ 向躯干中部推进",
+    "相机运动": "1秒内从4米高度平稳摇臂下降至1.0米，剩余7秒内，云台随每一拍左右侧移各40厘米（跟随臀部摆动）",
+    "帧率": "24帧/秒",
+    "镜头": "全程使用40毫米定焦镜头",
+    "景深": "中等；臀部清晰，背景虚化",
+    "胶片颗粒感": 0.03
+  },
+
+  "拍摄主体": {
+    "主体身份": "富有魅力的拉丁裔嘻哈表演者",
+    "外形描述": "体格健硕，铜色皮肤，高束丝绒马尾辫，带水晶流苏的全息银色紧身衣，过膝反光长靴；右手持无线麦克风，左手自然下垂",
+    "动作": "臀部舞蹈分离动作：膝盖弯曲20°，第一拍时骨盆向后顶，第二拍时向前顶；有控制地转动臀部（不交叉双腿），并以3.2赫兹的频率快速抖臀三次；肩膀保持稳定，避免躯干晃动",
+    "面部表情": "自信的微笑，在第二拍强拍时俏皮地眨一下眼",
+    "眼部": "烟熏金属色眼影在主光下闪闪发光"
+  },
+
+  "场景": {
+    "地点": "无限白色环形布景工作室（墙面与地面无缝弧形衔接）",
+    "时段": "不适用（受控的工作室灯光）",
+    "环境细节": "抛光白色环氧地板反射出柔和的粉/青色轮廓光；无观众"
+  },
+
+  "视觉细节": {
+    "主要动作": "表演者在整整8秒内完成臀部舞蹈动作，同时说唱副歌；相机的横向摆动与臀部顶动同步",
+    "次要动态": "纤细的RGB地面灯带在每次贝斯响起时闪烁粉青色光芒",
+    "时长": "8秒",
+    "分辨率": "4K",
+    "特效": [
+      "边缘照明面板在白色表面扫过色彩",
+      "镀铬配饰上的微镜头光晕",
+      "在最快的臀部抖动动作上使用低于10%的慢快门模糊效果（安全阈值）"
+    ]
+  },
+
+  "摄影": {
+    "灯光": "顶部高键柔光箱网格布光（5600K）；相机左侧为品红色重点光条，右侧为青色重点光；每第四个军鼓响起时，柔和的0.5秒频闪灯亮起（≤0.5档）",
+    "风格": "光泽感超写实工作室美学",
+    "基调": "活泼、高能量"
+  },
+
+  "音频": {
+    "音乐曲目": "190 BPM的陷阱流行节拍，厚重的808底鼓，在第2和第4拍有清晰的拍手声",
+    "环境音": "轻微的工作室室内音（-60 LUFS）",
+    "人声处理": "紧凑的回声延迟（60毫秒）；在6千赫兹处有柔和的去嘶音处理"
+  },
+
+  "对白": {
+    "台词": [
+      {
+        "说话者": "表演者",
+        "台词": "Grok4 强势登场，像火焰一样融化芯片，",
+        "表达": "坚定有节奏，精准踩在节拍上"
+      },
+      {
+        "说话者": "表演者",
+        "台词": "GPT-5 已联网，但 Grok 更胜一筹！",
+        "表达": "语调上扬，结尾带着轻快的笑声"
+      }
+    ],
+    "字幕": 无
+  },
+
+  "色彩搭配": {
+    "名称": "白色上的霓虹",
+    "主色": "#FF007F（粉色）",
+    "辅助色": "#00FFD5（青色）",
+    "强调色": "#C0C0C0（银色）",
+    "背景色": "#FFFFFF（白色）"
+  },
+
+  "视觉规则": {
+    "禁止元素": [
+      "品牌标识",
+      "露骨裸露画面",
+      "屏幕文字叠加",
+      "超过10%拉伸比例的慢动作",
+      "镜头污点或烙印式画框线"
+    ]
+  }
+}
+```
+https://github.com/user-attachments/assets/96d204b6-74a7-4c46-8b74-06dd0ba25671
+
+<a id="prompt-23"></a>
+## 案例23 (来源 [@koldo2k](https://x.com/koldo2k/status/1946704345333932300))
+
+**英文提示词：**
+```
+{
+  "description": "Fixed wide-angle cinematic shot of a sunlit white backdrop. The Coca-Cola logo, drawn in flowing red script, floats midair with a soft glow. The letters begin to ripple like liquid, then collapse into a glossy red stream that spirals downward. As it coils and rises, it forms the silhouette of the classic Coca-Cola glass bottle. The bottle crystallizes into solid form, covered in condensation. A 'pssst' sound is heard as the cap pops off and fizzy bubbles rise. No text.",
+  "style": "cinematic, nostalgic, sensory",
+  "camera": "fixed wide angle",
+  "lighting": "warm natural lighting with soft highlights and slight backlight",
+  "environment": "white studio backdrop with faint texture",
+  "elements": [
+    "Coca-Cola logo (red script)",
+    "liquid transformation stream",
+    "glass Coca-Cola bottle",
+    "fizz bubbles and condensation",
+    "pop of the bottle cap",
+    "reflections on the glass"
+  ],
+  "motion": {
+    "type": "logo-to-liquid-to-object",
+    "details": "logo ripples and melts into red stream, which forms the bottle and opens"
+  },
+  "ending": "The bottle stands upright, open, cold and glistening. Fade to black. No text.",
+  "audio": {
+    "voice_over": "none",
+    "music": "gentle nostalgic acoustic strum or soft jazz piano",
+    "sfx": "liquid ripple, bottle forming, fizz, bottle cap 'pssst'"
+  },
+  "text_overlay": "none",
+  "format": "16:9",
+  "keywords": [
+    "Coca-Cola",
+    "glass bottle",
+    "liquid transformation",
+    "nostalgia",
+    "brand reveal",
+    "cinematic"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“description”： “修复了阳光照射的白色背景的广角电影镜头。可口可乐标志以流动的红色字体绘制，飘浮在半空中，散发着柔和的光芒。这些字母开始像液体一样荡漾，然后塌陷成一条有光泽的红色流，向下盘旋。当它盘绕和上升时，它形成了经典可口可乐玻璃瓶的轮廓。瓶子结晶成固体，被冷凝水覆盖。当盖子弹出并且起泡气泡升起时，会听到“噗噗”声。没有文字。
+“style”： “电影、怀旧、感官”，
+“camera”： “固定广角”，
+“lighting”：“温暖的自然采光，高光柔和，背光轻微”，
+“environment”： “白色工作室背景，纹理微弱”，
+“元素”： [
+“可口可乐标志（红色字体）”，
+“液体转化流”，
+“玻璃可口可乐瓶”，
+“嘶嘶气泡和冷凝”，
+“瓶盖的啪啪声”，
+“玻璃上的倒影”
+],
+“运动”： {
+“type”： “标志到液体到物体”，
+“details”： “标志荡漾融化成红色的溪流，形成瓶子并打开”
+  },
+“ending”： “瓶子直立，打开，冰冷而闪闪发光。淡入黑色。没有文字。
+“音频”： {
+“voice_over”： “无”，
+“music”： “温柔怀旧的原声弹奏或柔和的爵士钢琴”，
+“sfx”： “液体波纹，瓶子成型，嘶嘶声，瓶盖'pssst'”
+  },
+“text_overlay”： “无”，
+“格式”： “16：9”，
+“关键字”： [
+“可口可乐”，
+“玻璃瓶”，
+“液体转化”，
+“怀旧”，
+“品牌揭晓”，
+“电影”
+  ]
+}
+```
+https://github.com/user-attachments/assets/290280be-8be6-493b-9727-e99f21c8d0c4
+
+
+<a id="prompt-22"></a>
+## 案例22 (来源 [@StelfieTT](https://x.com/StelfieTT/status/1946890560087666934))
+
+**英文提示词：**
+```
+{
+  "scene and action": "A woman stands in a completely empty kids bedroom in the morning light. A sealed box sits on the floor with the label 'Kids Room in a box'. The box rattles, then opens. Colorful, playful furniture pieces rapidly assemble , snapping, sliding, and unfolding across the room. As a bookshelf clicks into place and the bed rolls in, the girl watches calmly and says, 'Well..." and while the room finishes assembling into a bright, tidy, playful kids space takes her phone out and start scrolling and say "let[s see....husband in a box.... .",
+  "camera angle": "fixed static ",
+  "lighting": "natural soft morning light",
+  "room": "kids bedroom",
+  "ratio": "16:9",
+"character" : blonde woman
+"voice" : joyful and funny
+  "furniture": [
+    "low bed with animal-print sheets",
+    "toy storage",
+    "bookshelves",
+    "desk and chair",
+    "morning light",
+    "wall decals",
+    "rug",
+    "plush toys",
+    "bean bag",
+    "child’s wardrobe",
+    "curtains",
+    "carton box with text Kids Room in a box"
+  ],
+  "action and motion": "box opens, elements move quickly into place, sliding, folding, stacking automatically",
+  "keywords": [
+    "kids room",
+    "no text",
+    "fast motion",
+    "pastel tones",
+    "room kids design"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“scene and action”： “一个女人在晨光下站在一间完全空荡荡的儿童卧室里。地板上放着一个密封的盒子，上面贴着“盒子里的儿童房”的标签。盒子嘎嘎作响，然后打开。色彩缤纷、俏皮的家具在房间里迅速组装、折断、滑动和展开。当书架咔哒一声就位，床滚进来时，女孩平静地看着说，“好吧......”当房间完成组装成一个明亮、整洁、有趣的儿童空间时，她拿出手机开始滚动并说：“让我们看看......盒子里的丈夫......“，
+“camera angle”： “固定静态”，
+“lighting”：“自然柔和的晨光”，
+“room”： “儿童卧室”，
+“ratio”： “16：9”，
+“角色”：金发女人
+《声音》：欢乐搞笑
+“家具”： [
+“带动物图案床单的矮床”，
+“玩具储物”，
+“书架”，
+“书桌椅”，
+“晨光”，
+“墙贴”，
+“地毯”，
+“毛绒玩具”，
+“豆袋”，
+“孩子的衣橱”，
+“窗帘”，
+“纸箱，上面写着盒子里的儿童房”
+],
+“action and motion”： “盒子打开，元素快速移动到位，自动滑动、折叠、堆叠”，
+“关键字”： [
+“儿童房”，
+“无文本”，
+“快动作”，
+“柔和的色调”，
+“房间儿童设计”
+  ]
+}
+```
+https://github.com/user-attachments/assets/88e7a2fe-61e9-4bb9-afb9-67b18899d2c0
+
 <a id="prompt-21"></a>
 ## 案例21 (来源 [@techhalla](https://x.com/techhalla/status/1947265082653614244))
 
