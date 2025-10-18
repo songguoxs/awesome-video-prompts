@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
-# Awesome Veo3 Video Prompts
+# Awesome Veo3/Veo3.1 Video Prompts
 
-🎉 欢迎来到 Veo3 视频提示词（Prompts）精选！提示词持续更新中。。。
+🎉 欢迎来到 Veo3/Veo3.1 视频提示词（Prompts）精选！提示词持续更新中。。。
 
-这里收集了Google视频模型 Veo3 生成视频的精彩案例和提示词（Prompts）。
+这里收集了Google视频模型 Veo3/Veo3.1 生成视频的精彩案例和提示词（Prompts）。
 
 ---
 <a id="join_chat"></a>
@@ -15,6 +15,16 @@
 ---
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 50：人类与未来家居界面互动 ](#prompt-50)
+*   [案例 49：一支小队艰难地穿越冰脊对峙怪兽 ](#prompt-49)
+*   [案例 48：女子触摸一道明亮的金色弧线 ](#prompt-48)
+*   [案例 47：蜜蜂惊慌失措地全速穿过大学走廊 ](#prompt-47)
+*   [案例 46：黏土动画比尔博·巴金斯走过一座金山 ](#prompt-46)
+*   [案例 45：粘土动画库珀身着雕刻的飞行服 ](#prompt-45)
+*   [案例 44：黏土动画《哈利·波特》探出火车窗外 ](#prompt-44)
+*   [案例 43：男人沿着一条漆黑的小巷奔跑 ](#prompt-43)
+*   [案例 42：PS5控制器组装 ](#prompt-42)
+*   [案例 41：中国女性介绍音箱产品 ](#prompt-41)
 *   [案例 40：GTA、宝可梦、马里奥赛车 ](#prompt-40)
 *   [案例 39：复仇者联盟，指环王，变形金刚 ](#prompt-39)
 *   [案例 38：开箱-淡粉色卧室 ](#prompt-38)
@@ -56,6 +66,806 @@
 *   [案例 2：女性在书桌前主持播客 ](#prompt-2)
 *   [案例 1：ASMR-切猕猴桃 ](#prompt-1)
 ---
+<a id="prompt-50"></a>
+## 案例50 (来源 [@azed_ai](https://x.com/azed_ai/status/1966509746107871273))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "wide establishing shots transitioning to medium orbit and macro close-up",
+    "lens": "24mm for wide interior, 50mm for orbit, 90mm macro for device",
+    "frame_rate": "30fps standard with subtle ramping during gesture moments",
+    "camera_movement": "smooth orbital tracking around subject, gentle push-in for close-up"
+  },
+
+  "subject": {
+    "description": "androgynous individual interacting with futuristic home interface",
+    "wardrobe": "monochromatic high-tech loungewear with subtle metallic textures",
+    "props": "transparent ripple-reactive interfaces, glass-like control device"
+  },
+
+  "scene": {
+    "location": "suspended apartment overlooking neon cyberpunk cityscape",
+    "time_of_day": "twilight",
+    "environment": "minimalist architecture with panoramic windows, glowing neon haze outside"
+  },
+
+  "visual_details": {
+    "action": "gestures in air controlling environment, responsive lighting, final close-up of device",
+    "special_effects": "holographic UI, liquid ripple transitions, adaptive lighting",
+    "hair_clothing_motion": "minimal motion, soft fabric flow with elegant gesturing"
+  },
+
+  "cinematography": {
+    "lighting": "ambient interior glow with reactive accents, neon reflections",
+    "color_palette": "cool cyans, deep purples, soft whites with glass highlights",
+    "tone": "elevated, futuristic, serene"
+  },
+
+  "audio": {
+    "music": "ambient synthwave with digital chimes and subtle builds",
+    "ambient": "soft city hum, electronic interface whispers",
+    "sound_effects": "gesture-triggered whooshes, soft chime on logo",
+    "mix_level": "refined spatial mix with immersive clarity"
+  },
+
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“拍摄”：{
+“构图”：“广角定场镜头过渡到中景轨道和微距特写”，
+镜头：24mm 用于宽阔的内部空间，50mm 用于轨道，90mm 用于设备微距，
+"frame_rate": "标准 30fps，手势动作时有细微变化",
+"camera_movement": "围绕拍摄对象进行平滑的轨道跟踪，轻轻推入以进行特写"
+}，
+
+“主题”： {
+“描述”：“雌雄同体个体与未来家居界面互动”，
+“wardrobe”：“单色高科技家居服，带有微妙的金属质感”，
+“道具”：“透明的波纹反应界面，类似玻璃的控制装置”
+}，
+
+“场景”： {
+“location”：“悬浮公寓，俯瞰霓虹赛博朋克城市景观”，
+"time_of_day": "黄昏",
+“环境”：“极简主义建筑，全景窗户，外面霓虹闪烁”
+}，
+
+"visual_details": {
+“动作”：“空中控制环境的手势，响应式照明，设备的最终特写”，
+"special_effects": "全息 UI、液体波纹过渡、自适应照明",
+"hair_clothing_motion": "最小的动作，柔软的织物流动，优雅的手势"
+}，
+
+“电影摄影”：{
+“照明”：“带有反应性点缀和霓虹灯反射的室内环境光”，
+"color_palette": "冷青色、深紫色、柔和的白色，带有玻璃亮点",
+“tone”：高雅、未来主义、宁静
+}，
+
+“声音的”： {
+“音乐”：“带有数字钟声和微妙构造的环境合成波”，
+"ambient": "柔和的城市嗡嗡声，电子界面的低语声",
+"sound_effects": "手势触发的呼呼声，标志上的轻柔铃声",
+"mix_level": "精致的空间混合，沉浸式清晰度"
+}，
+
+“对话”：{
+“特点”： ””，
+“线”： ””，
+“字幕”：false
+}
+}
+```
+https://github.com/user-attachments/assets/51191eeb-c848-4a4f-b3e3-6bdf6224c497
+
+<a id="prompt-49"></a>
+## 案例49 (来源 [@azed_ai](https://x.com/azed_ai/status/1969079543286939993))
+
+**英文提示词：**
+```
+Cinematic long shot with forward tracking: In a frozen wasteland under a black sky filled with auroras, a small squad treks across an ice ridge, their footsteps crunching over ancient wreckage. Wind howls. One pauses, raising a scope. In the valley below: dozens of beasts, dormant, coiled around a shattered mech carrier. The camera slowly tracks forward as the squad descends each step heavy, uncertain. Then one of the creatures stirs. Its eyes glow. Others follow. The ice begins to crack beneath their feet. The camera pulls upward as all hell breaks loose, beasts charging up the slope, soldiers scrambling, rifles lighting up the darkness in staccato bursts.
+```
+
+**中文提示词：**
+```
+电影式长镜头，带前推：在一片冰冻荒原上，在极光弥漫的漆黑天空下，一支小队艰难地穿越冰脊，他们的脚步踩在古老的残骸上，发出嘎吱嘎吱的响声。狂风呼啸。其中一人停下脚步，举起瞄准镜。山谷下方：数十只野兽蛰伏，盘绕着一辆破碎的机甲运输车。随着小队每一步沉重而迷茫地下降，镜头缓慢地向前移动。然后，其中一只野兽动了动。它的眼睛闪闪发光。其他的也跟着动了起来。他们脚下的冰开始龟裂。镜头向上拉起，地狱之门打开，野兽冲上斜坡，士兵们手忙脚乱，步枪的枪声断断续续地照亮了黑暗。
+```
+https://github.com/user-attachments/assets/94c1e824-eb67-4645-abe4-78cad82ec3b7
+
+<a id="prompt-48"></a>
+## 案例48 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1968877704876589314))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "type": "single",
+    "camera_motion": "slow top-down crane descend with subtle push-in (no cuts)",
+    "loop_hint": "hold final 6 frames for seamless autoplay"
+  },
+  "subject": {
+    "character": "blonde woman with a single back braid, wearing a flowing black evening dress with thigh-high slit; barefoot; goddess-ritual vibe",
+    "pose": "arms outstretched overhead touching a luminous golden arc; head bowed slightly",
+    "expression": "calm, reverent focus",
+    "wardrobe_motion": "fabric breathes gently; hem sways from faint updraft"
+  },
+  "scene": {
+    "environment": "black void stage with sparse floating dust motes",
+    "hero_prop": "crescent-like golden light arc above her hands (liquid-light ribbon)",
+    "fx": ["soft volumetric glow", "micro-particle drift", "subtle heat shimmer near arc"],
+    "time_of_day": "timeless night"
+  },
+  "visual_details": {
+    "beats": [
+      {
+        "time": "0.0-2.4",
+        "action": "Camera descends from above; subject silhouette resolves; dormant gold arc begins to glimmer as hands make contact.",
+        "focus": "top-down framing, shoulders and braid highlighted"
+      },
+      {
+        "time": "2.4-5.4",
+        "action": "Arc brightens and bends smoothly into a perfect crescent; light blooms along her arms; dust motes orbit slowly.",
+        "focus": "rim highlights on skin; gentle lens bloom on the arc"
+      },
+      {
+        "time": "5.4-8.0",
+        "action": "She rises a few centimeters (levitation hint) while arc hums and stabilizes; fabric lifts softly; camera finishes push-in and settles for loop.",
+        "focus": "hero tableau centered; clean negative space around figure"
+      }
+    ]
+  },
+  "cinematography": {
+    "lens": "portrait 65–85mm feel, shallow depth (f/2.0)",
+    "framing": "centered vertical figure; arc sits just above frame midline; low key with strong speculars",
+    "exposure": "protect highlights on arc, maintain true blacks; mild roll-off on skin",
+    "post": "cinematic contrast; glow bloom on arc; very light film grain; negligible chromatic aberration"
+  },
+  "audio": {
+    "fx": [
+      "low airy shimmer tied to the arc brightness",
+      "soft cloth rustle on levitation",
+      "sub-bass swell at 5.4s"
+    ],
+    "music": "minimal drone in D minor, barely rising toward the final hold",
+    "dialogue": "none"
+  },
+  "color_palette": {
+    "primary": "molten gold (#F5C76A)",
+    "secondary": "amber highlights (#D69B3A)",
+    "accents": "skin neutrals with warm rim",
+    "background": "pure black (#000000)"
+  },
+  "physics_rules": [
+    "dust motes drift on gentle convection; no chaotic turbulence",
+    "cloth responds to continuous mild updraft; inertia preserved",
+    "arc emits soft light that illuminates nearby skin and fabric with inverse-square falloff"
+  ],
+  "visual_rules": [
+    "no text, captions, or watermarks",
+    "keep background clean; no extra props",
+    "avoid camera shake and excessive bloom; preserve detail in highlights",
+    "maintain elegant anatomy and natural hand poses"
+  ],
+  "negative_prompt": [
+    "cartoonish rendering",
+    "overexposed arc clipping",
+    "banding or posterization in blacks",
+    "extra limbs or finger artifacts",
+    "busy background",
+    "harsh color shifts (green, magenta)"
+  ],
+  "metadata": {
+    "mood": "sacred, poised, ascendant",
+    "platform_goal": "high-readability loop thumbnail with bright gold arc framing the centered subject"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“拍摄”：{
+“类型”：“单个”，
+"camera_motion": "缓慢的自上而下的起重机下降，并带有微妙的推入（无剪切）",
+"loop_hint": "保留最后 6 帧以实现无缝自动播放"
+}，
+“主题”： {
+"character": "金发女子，背后扎着一条辫子，身穿飘逸的黑色晚礼服，开衩至大腿；赤脚；女神仪式感",
+“姿势”：“双臂伸过头顶，触摸一道明亮的金色弧线；头部微微低垂”，
+"expression": "平静、虔诚的专注",
+"wardrobe_motion": "布料轻轻呼吸；衣摆因微弱的上升气流而摇摆"
+}，
+“场景”： {
+“环境”：“黑色虚空舞台，稀疏漂浮的尘埃”，
+"hero_prop": "她双手上方有一道月牙状的金色光弧（液态光带）",
+"fx": ["柔和体积光晕"、"微粒漂移"、"电弧附近微妙的热闪烁"],
+"time_of_day": "永恒之夜"
+}，
+“视觉细节”：{
+"节拍": [
+{
+"时间": "0.0-2.4",
+"action": "摄像机从上方下降；主体轮廓消失；当双手接触时，休眠的金色弧光开始闪烁。",
+“焦点”：“自上而下的构图，突出肩膀和辫子”
+}，
+{
+"时间": "2.4-5.4",
+"action": "弧光明亮，平滑地弯曲成完美的新月形；光芒沿着她的手臂绽放；尘埃缓慢地旋转。",
+“焦点”：“皮肤上的边缘亮点；弧线上的柔和镜头光晕”
+}，
+{
+"时间": "5.4-8.0",
+"action": "她上升了几厘米（悬浮提示），同时电弧嗡嗡作响并稳定下来；布料轻轻升起；相机完成推入并稳定下来。",
+“焦点”：“英雄画面居中；清理人物周围的负空间”
+}
+]
+}，
+“电影摄影”：{
+"lens": "人像 65–85mm 感觉，浅景深 (f/2. 0)" ,
+"framing": "居中垂直图形；弧线位于框架中线正上方；低调且具有强烈的镜面反射",
+"exposure": "保护弧光上的高光，保持真正的黑色；在皮肤上轻微衰减",
+"post": "电影对比度；弧光绽放；非常轻的胶片颗粒；可忽略不计的色差"
+}，
+“声音的”： {
+"fx": [
+“低空闪烁与弧光亮度相关”，
+“悬浮时柔软布料的沙沙声”，
+“超低音在 5.4 秒时增强”
+]，
+"music": "D 小调的极简嗡嗡声，几乎没有上升到最后的停顿",
+“对话”：“无”
+}，
+“调色板”：{
+"primary": "熔融的金子 ( #F5C76A )",
+"secondary": "琥珀色高光 ( #D69B3A )",
+“accents”：“带有暖色边缘的中性肤色”，
+“背景”：“纯黑色(#000000)"
+}，
+“物理规则”：[
+“尘埃粒子在温和的对流中飘移；没有混乱的湍流”，
+“布料对持续温和的上升气流做出反应；惯性得以保留”，
+“弧光发出柔和的光线，以平方反比衰减照亮附近的皮肤和织物”
+]，
+"visual_rules": [
+“无文字、标题或水印”，
+“保持背景干净；没有多余的道具”，
+“避免相机抖动和过度光晕；保留高光部分的细节”，
+“保持优雅的身体结构和自然的手势”
+]，
+"negative_prompt": [
+“卡通渲染”，
+“过度曝光的弧形剪辑”，
+“黑色条纹或色调分离”，
+“额外的肢体或手指制品”，
+“繁忙的背景”，
+“严重的色彩变化（绿色、洋红色）”
+]，
+“元数据”：{
+"mood": "神圣、泰然、上升",
+"platform_goal": "高可读性的循环缩略图，以明亮的金色弧线框住中心主题"
+}
+}
+```
+https://github.com/user-attachments/assets/6b8e0a44-a042-4f9e-858a-ac4536a1f5f2
+
+<a id="prompt-47"></a>
+## 案例47 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1970163711185649943))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "tight rear POV shot directly behind frantic bee, wings vibrating violently in frame",
+    "lens": "GoPro ultra-wide with extreme distortion to amplify speed",
+    "frame_rate": "180fps with ramping slow-motion bursts on near collisions",
+    "camera_movement": "hyper-fast forward rush with jitter, mimicking chaotic flight path"
+  },
+  "subject": {
+    "description": "bee racing full throttle through university corridors in panic, wings shaking violently",
+    "wardrobe": "",
+    "props": "students dodging aside, papers and books scattering, doors slamming open"
+  },
+  "scene": {
+    "location": "endless university hallway with fluorescent lights and lockers",
+    "time_of_day": "midday rush, crowded corridors",
+    "environment": "blurred faces of surprised students, moving obstacles flying past in streaks"
+  },
+  "visual_details": {
+    "action": "bee blasts forward in straight chaotic line, barely missing heads and shoulders, narrowly escaping slamming doors and spinning around obstacles",
+    "special_effects": "extreme motion blur, speed warp trails, shockwave distortion around wings, lights streaking by"
+  },
+  "cinematography": {
+    "lighting": "harsh fluorescent lighting flickering as speed distorts space",
+    "color_palette": "cool whites, blurred neon streaks, chaotic color flashes from student clothing",
+    "tone": "frenetic, high-adrenaline, disorienting"
+  },
+  "audio": {
+    "music": "fast EDM with rising tempo and heavy drops synced to near misses",
+    "ambient": "chaotic corridor reverberation fading under speed",
+    "sound_effects": "intense buzzing amplified, violent whooshes, crashes and startled shouts passing rapidly",
+    "mix_level": "overwhelming immersive mix, pushing speed sensation"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“拍摄”：{
+“构图”：“从后方近距离拍摄疯狂蜜蜂的正后方，画面中蜜蜂的翅膀剧烈颤动”，
+“镜头”：“GoPro 超广角镜头，具有极强的失真度，可提高速度”，
+"frame_rate": "180fps，近距离碰撞时慢动作爆发",
+"camera_movement": "超快速度抖动前进，模仿混乱的飞行路径"
+}，
+“主题”： {
+"description": "蜜蜂惊慌失措地全速穿过大学走廊，翅膀剧烈颤抖",
+“衣柜”： ””，
+“道具”：“学生们闪开，纸张和书籍散落一地，门砰地一声打开”
+}，
+“场景”： {
+"location": "无尽的大学走廊，有荧光灯和储物柜",
+"time_of_day": "中午高峰，走廊拥挤",
+“环境”：“惊讶的学生的模糊面孔，移动的障碍物以条纹形式飞过”
+}，
+“视觉细节”：{
+"action": "蜜蜂以混乱的直线向前飞去，几乎没有击中头部和肩膀，险些撞到关门声和在障碍物周围旋转，"
+"special_effects": "极端运动模糊、速度扭曲轨迹、机翼周围的冲击波扭曲、灯光划过"
+}，
+“电影摄影”：{
+“照明”：“刺眼的荧光灯闪烁，速度扭曲了空间”，
+"color_palette": "冷白色、模糊的霓虹条纹、学生服装上混乱的色彩闪光",
+“语气”：狂热、肾上腺素飙升、迷失方向
+}，
+“声音的”： {
+"music": "快速的 EDM，节奏加快，重低音与近乎失准的音调同步",
+“ambient”：“混乱的走廊混响在速度下逐渐消退”，
+"sound_effects": "强烈的嗡嗡声被放大，剧烈的呼啸声、撞击声和惊叫声迅速传来",
+"mix_level": "震撼沉浸式混音，极速快感"
+}
+}
+```
+https://github.com/user-attachments/assets/3c9966d0-0b39-4bff-bc0f-2baf6d104ba0
+
+<a id="prompt-46"></a>
+## 案例46 (来源 [@azed_ai](https://x.com/azed_ai/status/1970488823382790164))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "medium-wide shot with claymation-style depth and handcrafted textures",
+    "lens": "50mm virtual stop-motion lens with slight fisheye distortion",
+    "frame_rate": "12fps to mimic traditional claymation pacing",
+    "camera_movement": "slow dolly push-in toward Bilbo, with sudden tilt up on dragon reveal"
+  },
+
+  "subject": {
+    "description": "claymation Bilbo Baggins, wide-eyed and trembling, tiptoes across a mountain of gold",
+    "wardrobe": "tiny sculpted wool cloak, clay sword, hand-textured curls",
+    "props": "glittered clay coins, oversized goblets, clay Arkenstone glowing subtly"
+  },
+
+  "scene": {
+    "location": "Smaug’s hoarded treasure hall under the Lonely Mountain",
+    "time_of_day": "dim cavern lit by fire-glow and scattered treasure reflections",
+    "environment": "clay-crafted columns, soot-blackened walls, gold piles molded with finger prints"
+  },
+
+  "visual_details": {
+    "action": "Bilbo freezes as a low rumble shakes the hoard and a massive clay claw emerges",
+    "special_effects": "stop-motion fire breath effect using layered painted cellophane, glowing eyes frame-by-frame animated",
+    "hair_clothing_motion": "subtle, jittery frame-to-frame cloak motion and expressive clay eye shifts"
+  },
+
+  "cinematography": {
+    "lighting": "warm clay-fire bounce lighting mixed with cool cavern shadows",
+    "color_palette": "burnt oranges, muted browns, deep shadows, with gold shimmer",
+    "tone": "tense, handcrafted, whimsically eerie"
+  },
+
+  "audio": {
+    "music": "orchestral clay percussion and slow string plucks with echo",
+    "ambient": "distant rumbling, coin shifts, a single deep dragon breath",
+    "sound_effects": "creaky stop-motion footsteps, crackling treasure slide",
+    "mix_level": "ambience forward with subtle music underlay"
+  },
+
+  "dialogue": {
+    "character": "Smaug (claymation voice)",
+    "line": "I smell you, thief... Do not think you can hide from me.",
+    "subtitles": false
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“拍摄”：{
+"composition": "具有黏土动画风格深度和手工制作纹理的中广角镜头",
+"lens": "50mm 虚拟定格镜头，略带鱼眼失真",
+"frame_rate": "12fps 模仿传统黏土动画的节奏",
+"camera_movement": "缓慢的移动摄影车向比尔博推近，当巨龙现身时突然向上倾斜"
+}，
+
+“主题”： {
+"description": "黏土动画比尔博·巴金斯，睁大眼睛，浑身颤抖，踮着脚尖走过一座金山",
+“衣柜”：“微型雕刻羊毛斗篷、粘土剑、手工纹理卷发”，
+“道具”：“闪闪发光的粘土硬币，超大高脚杯，粘土阿肯石散发着微妙的光芒”
+}，
+
+“场景”： {
+"location": "孤山之下史矛革的宝藏大厅",
+"time_of_day": "昏暗的洞穴被火光照亮，散落的宝藏倒影",
+“环境”：“粘土制作的柱子，烟灰熏黑的墙壁，用指纹塑造的金堆”
+}，
+
+“视觉细节”：{
+“动作”：“低沉的隆隆声震动了宝藏，一只巨大的粘土爪子浮现出来，比尔博僵住了”，
+"special_effects": "使用分层彩绘玻璃纸制作的定格火焰吐息效果，逐帧动画呈现发光的眼睛",
+"hair_clothing_motion": "微妙、抖动的逐帧斗篷运动和富有表现力的粘土眼球变化"
+}，
+
+“电影摄影”：{
+“照明”：“温暖的粘土火反射照明与凉爽的洞穴阴影混合”，
+"color_palette": "焦橙色、柔和的棕色、深色阴影、带有金色光泽",
+“语气”：“紧张、手工制作、怪诞怪诞”
+}，
+
+“声音的”： {
+"music": "管弦乐陶土打击乐和慢速弦乐拨奏，伴有回声",
+"ambient": "远处的隆隆声、硬币的移动声、一声深沉的龙息",
+"sound_effects": "吱吱作响的定格脚步声，噼啪作响的宝藏滑梯",
+"mix_level": "氛围突出，带有微妙的音乐底色"
+}，
+
+“对话”：{
+"character": "史矛革（黏土动画配音）",
+"line": "我闻到你了，小偷……别以为你能躲过我的追捕。",
+“字幕”：false
+}
+}
+```
+https://github.com/user-attachments/assets/d4d5acbf-7b3d-41f0-8865-ddb191189604
+
+<a id="prompt-45"></a>
+## 案例45 (来源 [@azed_ai](https://x.com/azed_ai/status/1970488757922210148))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "top-down spinning claymation shot of the Endurance aligning with the docking station",
+    "lens": "virtual macro lens with slight barrel distortion for handmade effect",
+    "frame_rate": "12fps with deliberate clay flicker",
+    "camera_movement": "rotational tracking around the spinning ships, tightening as docking nears"
+  },
+
+  "subject": {
+    "description": "claymation Cooper in a sculpted flight suit, intensely controlling the Endurance as it rotates into place",
+    "wardrobe": "tiny molded astronaut suit with moving clay tubes and helmet visor reflections",
+    "props": "hand-sculpted console with blinking lights, rotating docking clamps, clay ring segments"
+  },
+
+  "scene": {
+    "location": "orbit above a stylized black hole with painted light swirl backdrop",
+    "time_of_day": "deep space — star-speckled black with ambient glow from distant galaxy",
+    "environment": "floating clay debris, sculpted ring shadows, mini clay model of Gargantua in the distance"
+  },
+
+  "visual_details": {
+    "action": "the ships spin faster, Cooper aligns them with pinpoint timing, the clamps connect in a satisfying clay click",
+    "special_effects": "hand-drawn star trails, layered glow from the black hole, clay particles flung by centrifugal motion",
+    "hair_clothing_motion": "helmet strap sways inside the capsule, clay fingers twitch on the controls"
+  },
+
+  "cinematography": {
+    "lighting": "subtle clay studio-style lighting with harsh contrast from the black hole side",
+    "color_palette": "matte black, dusty gray, and blue glow tones with bursts of warm orange during connection",
+    "tone": "intense, handcrafted, suspenseful"
+  },
+
+  "audio": {
+    "music": "claypipe organ version of Interstellar theme with chime loops",
+    "ambient": "muted beeps, radio static, deep space hum",
+    "sound_effects": "clicking clay clamps, creaky plastic panels, muffled breathing inside helmet",
+    "mix_level": "music builds to climax with sound FX punched forward during final lock"
+  },
+
+  "dialogue": {
+    "character": "Cooper (claymation voice)",
+    "line": "Hold on... we’re going to dock manually.",
+    "subtitles": false
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“拍摄”：{
+"composition": "自上而下的旋转黏土动画镜头，展现耐力号与对接站对齐的场景",
+“镜头”：“带有轻微桶形失真的虚拟微距镜头，可实现手工效果”，
+"frame_rate": "12fps，故意使粘土闪烁",
+"camera_movement": "围绕旋转的船只进行旋转跟踪，随着对接的临近而收紧"
+}，
+
+“主题”： {
+"description": "粘土动画库珀身着雕刻的飞行服，密切控制着耐力号旋转到位",
+“衣柜”：“微型模制宇航服，带有移动粘土管和头盔面罩反射”，
+“道具”：“手工雕刻的控制台，带有闪烁的灯光、旋转的对接夹、粘土环段”
+}，
+
+“场景”： {
+“location”：“围绕风格化的黑洞运行，背景为彩绘的灯光漩涡”，
+"time_of_day": "深空——星光点缀的黑色，周围散发着来自遥远星系的光芒",
+“环境”：“漂浮的粘土碎片，雕刻的环形阴影，远处的 Gargantua 迷你粘土模型”
+}，
+
+“视觉细节”：{
+“动作”：“飞船旋转得更快，库珀以精确的时间对准它们，夹具连接在一起，发出令人满意的粘土咔哒声”，
+"special_effects": "手绘星迹、黑洞的分层辉光、离心运动甩出的粘土颗粒",
+"hair_clothing_motion": "头盔带在太空舱内摇晃，粘土手指在控制器上抽搐"
+}，
+
+“电影摄影”：{
+"lighting": "微妙的粘土工作室风格灯光与黑洞侧面的强烈对比",
+"color_palette": "哑光黑色、灰暗灰色和蓝色光晕色调，连接时伴有暖橙色"
+“tone”：“紧张、精心制作、悬念迭起”
+}，
+
+“声音的”： {
+"music": "带有钟声循环的星际主题的陶土管风琴版本",
+"ambient": "静音哔哔声、无线电静电噪音、深空嗡嗡声",
+"sound_effects": "咔哒咔哒的粘土夹子声、吱吱作响的塑料面板声、头盔内低沉的呼吸声",
+"mix_level": "音乐在最后的锁定过程中随着音效的推进而达到高潮"
+}，
+
+“对话”：{
+"character": "Cooper (黏土动画配音)",
+"line": "按住on...我们将手动停靠。",
+“字幕”：false
+}
+}
+```
+https://github.com/user-attachments/assets/3612dee1-4641-4ded-84b2-b82a6e465c73
+
+<a id="prompt-44"></a>
+## 案例44 (来源 [@azed_ai](https://x.com/azed_ai/status/1970488692826611894))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "sweeping wide claymation shot of the Hogwarts Express approaching the castle",
+    "lens": "virtual tilt-shift clay camera with exaggerated depth",
+    "frame_rate": "12fps classic stop-motion pace",
+    "camera_movement": "dolly shot following train, crane-style tilt up to reveal clay Hogwarts"
+  },
+
+  "subject": {
+    "description": "claymation Harry Potter leaning out of the train window, eyes wide with wonder",
+    "wardrobe": "miniature sculpted robes, scarf with moving clay fringe, round glasses molded on",
+    "props": "clay owl in cage, sculpted suitcase with spellbooks, hand-shaped wand in pocket"
+  },
+
+  "scene": {
+    "location": "Hogwarts Express track curving beside a clay river, leading to Hogwarts castle on a hill",
+    "time_of_day": "twilight with fading sculpted sky gradients",
+    "environment": "rolling clay hills, fiber-clouds on strings, flickering castle windows made of translucent clay"
+  },
+
+  "visual_details": {
+    "action": "train puffs clay steam as Harry gazes at the glowing castle, cloak fluttering slightly",
+    "special_effects": "stop-motion light flickers in the windows, twinkling stars added frame-by-frame",
+    "hair_clothing_motion": "Harry’s hair shifts subtly between frames, scarf bobs in the wind"
+  },
+
+  "cinematography": {
+    "lighting": "soft clay-style ambient lighting with glowing castle highlights",
+    "color_palette": "deep blues, warm golds, and hand-painted brick reds",
+    "tone": "magical, nostalgic, hand-crafted"
+  },
+
+  "audio": {
+    "music": "gentle clay-bell chimes and whimsical glockenspiel melody",
+    "ambient": "train wheels clacking, faint owl hoot, breeze on the hill",
+    "sound_effects": "soft clay footsteps, luggage bump, magical sparkle twinkles",
+    "mix_level": "music-forward mix with delicate ambient textures"
+  },
+
+  "dialogue": {
+    "character": "Harry Potter (child voice, claymation-style)",
+    "line": "Is that... Hogwarts?",
+    "subtitles": false
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“拍摄”：{
+“构图”：“霍格沃茨特快列车驶近城堡的广角黏土动画镜头”，
+“镜头”：“具有夸张深度的虚拟移轴粘土相机”，
+"frame_rate": "12fps 经典定格动画速度",
+"camera_movement": "移动摄影机跟随火车拍摄，起重机式倾斜以显示粘土霍格沃茨"
+}，
+
+“主题”： {
+"description": "黏土动画《哈利·波特》探出火车窗外，惊奇地睁大眼睛",
+"wardrobe": "微型雕刻长袍、带有动态粘土流苏的围巾、模制圆形眼镜",
+“道具”：“笼子里的粘土猫头鹰，装有咒语书的雕刻手提箱，口袋里的手形魔杖”
+}，
+
+“场景”： {
+"location": "霍格沃茨特快列车轨道沿着一条粘土河蜿蜒而行，通往山上的霍格沃茨城堡",
+"time_of_day": "暮色渐浓，天空的渐变色逐渐褪色",
+“环境”：“起伏的粘土山丘，弦上的纤维云，由半透明粘土制成的闪烁的城堡窗户”
+}，
+
+“视觉细节”：{
+"action": "火车喷出泥土蒸汽，哈利凝视着发光的城堡，斗篷微微飘动"
+"special_effects": "定格动画的灯光在窗户中闪烁，闪烁的星星逐帧添加",
+"hair_clothing_motion": "哈利的头发在各个画面之间微妙地移动，围巾在风中飘动"
+}，
+
+“电影摄影”：{
+"lighting": "柔和的粘土风格环境照明，带有发光的城堡亮点",
+"color_palette": "深蓝色、暖金色和手绘砖红色",
+“tone”：“神奇、怀旧、手工制作”
+}，
+
+“声音的”： {
+“音乐”：“轻柔的陶铃声和异想天开的钟琴旋律”，
+"ambient": "火车车轮的咔哒声、微弱的猫头鹰鸣叫声、山上的微风",
+"sound_effects": "柔软的粘土脚步声、行李碰撞声、魔法闪光闪烁",
+"mix_level": "具有精致环境纹理的音乐前向混合"
+}，
+
+“对话”：{
+"character": "哈利·波特（童声，黏土动画风格）",
+"line": "那是...霍格沃茨吗？",
+“字幕”：false
+}
+}
+```
+https://github.com/user-attachments/assets/2c9f1be4-5528-4fe5-b2bd-1afef2fd8bb5
+
+<a id="prompt-43"></a>
+## 案例43 (来源 [@azed_ai](https://x.com/azed_ai/status/1946245757759361491))
+
+**英文提示词：**
+```
+A man runs down a dark alley at night with a gun in his hand. Handheld 35mm medium shot tracks behind him, then whip-pans as he checks a corner. Dim streetlights, rising steam, cold breath. Slow motion pulse as he lifts the gun. He mutters, “Of course it had to be this alley…”
+```
+
+**中文提示词：**
+```
+夜里，一个男人手持枪，沿着一条漆黑的小巷奔跑。手持35毫米中景镜头在他身后跟踪，然后随着他检查街角而快速摇摄。昏暗的路灯，升腾的蒸汽，冰冷的呼吸。他举起枪，脉搏慢动作跳动。他喃喃自语：“当然是这条小巷……”
+```
+https://github.com/user-attachments/assets/2e48a090-4b9e-4df7-9ea4-917104bcc91b
+
+<a id="prompt-42"></a>
+## 案例42 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1976686684684042371))
+
+**英文提示词：**
+```
+{
+  "shot": {
+    "composition": "fragmented pieces of a PS5 DualSense controller assembling mid-air with zero-gravity motion and explosive impact points",
+    "lens": "35mm virtual lens with fast rack focus and shallow depth of field on each part",
+    "frame_rate": "1000fps during slow-motion assembly, 60fps in between",
+    "camera_movement": "ultra-dynamic orbital spins, snap-zooms on triggers, inside-out fly-through of the controller body, ending in hard push-in on the completed device"
+  },
+
+  "subject": {
+    "description": "PS5 DualSense controller forming from raw floating components — triggers, face buttons, analog sticks, haptic core — coming together with sonic force",
+    "wardrobe": "",
+    "props": "transparent trigger shells, vibrating actuator module, light bar strip, PlayStation symbols spinning before locking into buttons"
+  },
+
+  "scene": {
+    "location": "digital void resembling a dark console startup space with particle fog and ambient grid lighting",
+    "time_of_day": "stylized tech-space",
+    "environment": "hovering digital dust, low-lying mist, energy lines pulsing with every part assembled"
+  },
+
+  "visual_details": {
+    "action": "each piece enters frame like a precision missile, locking into place with sonic booms — thumbsticks spiral in, faceplate slams down with micro-explosions of light, final PlayStation logo burns in at the center — controller lands on glass surface, sending out shock ripples and lighting up its LEDs",
+    "special_effects": "light trail streaks, magnetic snap FX, glitch pulses, haptic vibration simulated in slow motion, LED ignition flare",
+    "hair_clothing_motion": ""
+  },
+
+  "cinematography": {
+    "lighting": "pulsed spotlight bursts from above and below, reflective surfaces bouncing light off every plastic curve",
+    "color_palette": "ice white, midnight black, pulse blue, reactive neon flares",
+    "tone": "tech-futuristic, powerful, sleek"
+  },
+
+  "audio": {
+    "music": "cinematic synthwave with layered build-ups and sharp percussive drops",
+    "ambient": "low digital hum, frequency sweeps, energy pulses rising",
+    "sound_effects": "clicks, pressure pops, deep magnetic lock-ins, startup chime reimagined as an impact sting",
+    "mix_level": "studio-grade mix with 3D stereo positioning, sharp highs for clicks and wide low-end on impacts"
+  },
+
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“拍摄”：{
+"composition": "PS5 DualSense 控制器的碎片在空中组装，具有零重力运动和爆炸性撞击点",
+“镜头”：“35mm 虚拟镜头，具有快速对焦和各部分浅景深”，
+"frame_rate": "慢动作组装时 1000fps，中间 60fps",
+"camera_movement": "超动态轨道旋转，扳机快速缩放，控制器主体内外飞越，最后在完成的设备上用力推入"
+}，
+
+“主题”： {
+"description": "PS5 DualSense 控制器由原始浮动组件（扳机键、正面按钮、模拟摇杆、触觉核心）与声波力量相结合而成",
+“衣柜”： ””，
+“道具”：“透明扳机壳、振动执行器模块、灯条、在锁定按钮之前旋转的 PlayStation 符号”
+}，
+
+“场景”： {
+"location": "数字虚空类似于带有粒子雾和环境网格照明的黑暗控制台启动空间",
+"time_of_day": "风格化的科技空间",
+“环境”：“悬浮的数字尘埃，低洼的薄雾，能量线随着每个部件的组装而脉动”
+}，
+
+“视觉细节”：{
+“动作”：“每个部件都像一枚精确的导弹一样进入画面，在音爆中锁定到位——拇指杆盘旋而入，面板在微光爆炸中猛地落下，最后的 PlayStation 标志在中心燃烧——控制器落在玻璃表面上，发出冲击波并点亮其 LED”，
+"special_effects": "光迹条纹、磁力捕捉特效、故障脉冲、慢动作模拟触觉振动、LED 点火火焰",
+"hair_clothing_motion": ""
+}，
+
+“电影摄影”：{
+"lighting": "脉冲聚光灯从上方和下方射出，反射面将光线从每个塑料曲线上反射回来",
+"color_palette": "冰白色、午夜黑色、脉冲蓝色、反应霓虹光",
+“tone”：“科技未来主义、强大、时尚”
+}，
+
+“声音的”： {
+"music": "具有层次感和尖锐打击乐效果的电影合成波",
+"ambient": "低数字嗡嗡声、频率扫描、能量脉冲上升",
+"sound_effects": "咔哒声、压力爆裂声、深度磁锁定、启动铃声被重新想象成撞击声",
+"mix_level": "录音棚级混音，具有 3D 立体声定位、清晰的点击高音和宽广的低音效果"
+}，
+
+“对话”：{
+“特点”： ””，
+“线”： ””，
+“字幕”：false
+}
+}
+```
+https://github.com/user-attachments/assets/4a8c540d-7efb-48b7-8953-8e041fc3453f
+
+<a id="prompt-41"></a>
+## 案例41 (来源 [@hellokaton](https://x.com/hellokaton/status/1979076853341024466))
+
+**中文提示词：**
+```
+tiktok 风格的影响者视频。一位年轻的中国女性举起并谈论这个产品，她用清晰的中文说到："欢迎大家来尝试我们家新出的 katon 音响，音质超一流，支持 ChatGPT"，用手机拍摄的低质量业余视频。
+```
+https://github.com/user-attachments/assets/35fbbc30-dac9-424d-8bd0-1d54c8240a9d
 
 <a id="prompt-40"></a>
 ## 案例40 (来源 [@emollick](https://x.com/emollick/status/1946406544171569438))
